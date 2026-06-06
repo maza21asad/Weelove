@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07536b47a062dc140b9ea8973acb38d5, type: 3}
+  m_Name: Scene5MusicData
+  m_EditorClassIdentifier: 
+  sceneName: 'lvl 5 '
+  playlist:
+  - {fileID: 8300000, guid: d55de54853ac9b448aeb4de55f47dc6c, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07536b47a062dc140b9ea8973acb38d5, type: 3}
+  m_Name: Scene2MusicData
+  m_EditorClassIdentifier: 
+  sceneName: lvl 2
+  playlist:
+  - {fileID: 8300000, guid: f206805dcd0a26a4eab9623c9cc1137e, type: 3}
+  - {fileID: 8300000, guid: b842dc6f56a26c344abb2ed3a2569e5d, type: 3}
+  - {fileID: 8300000, guid: 86da4b2f8f09c004b8a6db77cb270bfa, type: 3}
+  - {fileID: 8300000, guid: 33e3f893b1d15934584eafd8f5b2bc46, type: 3}
