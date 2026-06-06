@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: QuesData
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: Test 1
+    quesAnswers:
+    - questions: What does the following traffic sign mean?
+      emogis:
+      - {fileID: 21300000, guid: a59c751899265e44ba12fb530db69ffe, type: 3}
+      - {fileID: 21300000, guid: fa182ec81646441458428f2a864c04f7, type: 3}
+      options:
+      - Entry permitted for private vehicles only
+      - ' No entry for motor vehicles'
+      - Entry permitted for public vehicles
+      - Entry permitted for two-wheeled vehicles only
+      answers: ' No entry for motor vehicles'
+    - questions: What should you do when approaching a crosswalk with a pedestrian
+        intending to cross?
+      emogis: []
+      options:
+      - Slow down and proceed carefully
+      - Honk to warn the pedestrian
+      - Stop and allow them to cross
+      - Carefully overtake the pedestrian
+      answers: Stop and allow them to cross
+    - questions: What is the maximum speed allowed on an urban road if not specified
+        otherwise?
+      emogis: []
+      options:
+      - 60 km/h
+      - 40 km/h
+      - 70 km/h
+      - 50 km/h
+      answers: 50 km/h
+    - questions: ' What is the role of the ABS system in a vehicle?'
+      emogis: []
+      options:
+      - To save fuel
+      - To prevent wheel lock during braking
+      - To improve vehicle speed
+      - To activate the airbags
+      answers: To prevent wheel lock during braking
+    - questions: How can you identify a warning sign?
+      emogis: []
+      options:
+      - Blue circle with a symbol
+      - Green square with text
+      - Triangle with a red border
+      - Yellow rectangle with a black stripe
+      answers: Triangle with a red border
+    - questions: What is your obligation when you see an approaching emergency vehicle
+        with flashing lights?
+      emogis:
+      - {fileID: 21300000, guid: 040605442d212674d9239d329b6672ac, type: 3}
+      options:
+      - Continue as normal
+      - Stop on the right and clear the way
+      - Slow down and drive on the shoulder
+      - Speed up to avoid hindrance
+      answers: Stop on the right and clear the way
+    - questions: What does a double solid line mean?
+      emogis: []
+      options:
+      - Overtaking is allowed with caution
+      - Crossing is allowed only for a left turn
+      - Crossing or overtaking is prohibited
+      - Overtaking is allowed only for two-wheeled vehicles
+      answers: Crossing or overtaking is prohibited
+    - questions: What is the correct way to check tire pressure?
+      emogis: []
+      options:
+      - After driving for 10 minutes
+      - When the tires are warm
+      - When the tires are cold
+      - Only at a gas station
+      answers: When the tires are cold
+    - questions: What is the danger of driving closely behind the vehicle in front
+        of you?
+      emogis: []
+      options:
+      - Fuel savings
+      - Insufficient reaction time in an emergency
+      - Wider field of vision
+      - Possibility of quick overtaking
+      answers: Insufficient reaction time in an emergency
+    - questions: ' What is the role of the seatbelt?'
+      emogis: []
+      options:
+      - To prevent accidents
+      - To reduce injuries in an accident
+      - To improve driving comfort
+      - To activate the airbags
+      answers: To reduce injuries in an accident
+    - questions: What is the correct way to change lanes?
+      emogis: []
+      options:
+      - Signal and change immediately
+      - Check mirrors only
+      - Check mirrors, signal, check blind spot, and change
+      - Change quickly to avoid disrupting traffic
+      answers: Check mirrors, signal, check blind spot, and change
+    - questions: What is the role of the ESP system in a vehicle?
+      emogis: []
+      options:
+      - To improve fuel consumption
+      - To maintain vehicle stability during turns
+      - To activate the rear brakes
+      - To activate the automatic lights
+      answers: To maintain vehicle stability during turns
+    - questions: What is the danger of driving under the influence of alcohol?
+      emogis: []
+      options:
+      - Improved concentration
+      - Impaired judgment and reaction
+      - Increased reaction time
+      - No effect on driving
+      answers: Impaired judgment and reaction
+    - questions: 'What does a stop sign mean? '
+      emogis:
+      - {fileID: 21300000, guid: aa2beedeba4850440ab8f11ef6377f28, type: 3}
+      options:
+      - Slow down and proceed carefully
+      - Stop and yield
+      - Stop only if there is traffic
+      - Allowed to proceed if there is no vehicle on the right
+      answers: Stop and yield
+    - questions: What is the correct way to drive in heavy rain?
+      emogis:
+      - {fileID: 21300000, guid: 18af3929549ec9343844ce6a60ba7c4d, type: 3}
+      options:
+      - Turn on high beams and drive fast
+      - Slow down, turn on lights, and maintain distance
+      - Drive on the shoulder
+      - Stop on the side of the road immediately
+      answers: Slow down, turn on lights, and maintain distance
+    - questions: What does a "no overtaking" sign mean?
+      emogis: []
+      options:
+      - Overtaking a two-wheeled vehicle is allowed
+      - Overtaking is allowed only from the left
+      - Overtaking another vehicle is prohibited
+      - Overtaking is allowed if there is no additional sign
+      answers: Overtaking another vehicle is prohibited
+    - questions: What is the correct way to drive on a mountain road?
+      emogis: []
+      options:
+      - Drive in low gear and brake carefully
+      - Drive in high gear
+      - Accelerate downhill
+      - Drive on the shoulder
+      answers: Drive in low gear and brake carefully
+    - questions: What is the role of the cruise control system?
+      emogis: []
+      options:
+      - To activate the brakes
+      - To maintain a constant speed
+      - To activate the lights
+      - To activate the GPS
+      answers: To maintain a constant speed
+    - questions: What is the correct way to drive an automatic vehicle downhill?
+      emogis: []
+      options:
+      - Shift to low gear
+      - Brake hard
+      - Accelerate
+      - Shift to Neutral
+      answers: Shift to low gear
+    - questions: What is the danger of driving while tired?
+      emogis:
+      - {fileID: 21300000, guid: e6583a37955344c4d86e77d2d841e55d, type: 3}
+      options:
+      - Improved concentration
+      - Decreased concentration and increased accident risk
+      - No effect
+      - Improved reaction time
+      answers: Decreased concentration and increased accident risk
+    - questions: What is the correct way to drive on a slippery road?
+      emogis: []
+      options:
+      - Accelerate to avoid skidding
+      - Slow down and avoid sharp movements
+      - Brake hard at every turn
+      - Drive on the shoulder
+      answers: Slow down and avoid sharp movements
+    - questions: What does a "main road" sign mean?
+      emogis: []
+      options:
+      - You must yield
+      - You are on a road with right of way
+      - Overtaking is allowed in any situation
+      - The road is blocked to traffic
+      answers: You are on a road with right of way
+    - questions: What is the correct way to drive with a trailer?
+      emogis: []
+      options:
+      - Drive fast to avoid disrupting
+      - Drive slowly, avoid sharp turns, and check brakes
+      - Drive only at night
+      - Drive only in the left lane
+      answers: Drive slowly, avoid sharp turns, and check brakes
+    - questions: What does a "no entry" sign mean?
+      emogis: []
+      options:
+      - Entry is allowed only for public vehicles
+      - Entry is allowed if there is no additional sign
+      - Entry in this direction is prohibited
+      - Entry is allowed if there is no oncoming traffic
+      answers: Entry in this direction is prohibited
+    - questions: What is the correct way to drive at night?
+      emogis:
+      - {fileID: 21300000, guid: 2405ef1fbed1c3142b8c5d37632103d2, type: 3}
+      options:
+      - Turn on high beams in every situation
+      - Turn on lights, maintain distance, and slow down
+      - Drive fast to finish quickly
+      - Drive only with parking lights
+      answers: Turn on lights, maintain distance, and slow down
+    - questions: ' What is the danger of driving at excessive speed?'
+      emogis: []
+      options:
+      - Improved reaction time
+      - Shortened reaction time and increased accident severity
+      - Fuel savings
+      - Reduced risk of an accident
+      answers: Shortened reaction time and increased accident severity
+    - questions: What is the correct way to drive in heavy fog?
+      emogis:
+      - {fileID: 21300000, guid: debc1d90464154047bfb71a5e6fb145e, type: 3}
+      options:
+      - Turn on high beams and drive fast
+      - Turn on fog lights and slow down
+      - Drive only with parking lights
+      - Stop on the side of the road and wait
+      answers: Turn on fog lights and slow down
+    - questions: What does a "roundabout" sign mean?
+      emogis: []
+      options:
+      - Entry is allowed without slowing down
+      - Enter with caution and yield
+      - You must stop before entering
+      - Overtaking is allowed within the roundabout
+      answers: Enter with caution and yield
+    - questions: What is the correct way to drive when children are near the road?
+      emogis: []
+      options:
+      - Accelerate to pass quickly
+      - Honk to warn
+      - Slow down and be ready to stop
+      - Drive in the left lane
+      answers: Slow down and be ready to stop
+    - questions: What is your obligation when approaching an intersection without
+        signs?
+      emogis: []
+      options:
+      - Yield to vehicles on the left
+      - Enter first if there is no traffic
+      - Yield to vehicles on the right
+      - Always stop before the intersection
+      answers: Yield to vehicles on the right

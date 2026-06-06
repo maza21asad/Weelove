@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: QuesData 3
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: Test 3
+    quesAnswers:
+    - questions: What should you do when you hear an emergency vehicle approaching
+        from behind with lights and sirens?
+      emogis: []
+      options:
+      - Stop immediately in the middle of the road
+      - Slow down and continue
+      - Stick to the right and clear the way
+      - Move to the left lane
+      answers: Stick to the right and clear the way
+    - questions: What is the safest way to cross a traffic light intersection?
+      emogis: []
+      options:
+      - Speed up to avoid getting stuck at red
+      - Slow down and always stop
+      - Check the traffic and obey the traffic light
+      - Honk before the intersection
+      answers: Check the traffic and obey the traffic light
+    - questions: What is the main reason for keeping a distance from the vehicle
+        in front of you?
+      emogis: []
+      options:
+      - To improve travel speed
+      - To reduce fuel consumption
+      - To ensure sufficient reaction time
+      - To switch to another lane
+      answers: To ensure sufficient reaction time
+    - questions: What is the maximum speed on a rural road without built-up areas,
+        if there are no other signs?
+      emogis: []
+      options:
+      - 80 km/h
+      - 110 km/h
+      - 60 km/h
+      - 90 km/h
+      answers: 110 km/h
+    - questions: In which cases is it permissible to cross a solid separation line?
+      emogis: []
+      options:
+      - For overtaking
+      - When the traffic light is green
+      - For a left turn only
+      - Always, if there is no oncoming traffic
+      answers: For a left turn only
+    - questions: How should you drive when you discover something is wrong with your
+        vehicle while driving?
+      emogis: []
+      options:
+      - Slow down and continue cautiously
+      - Stop immediately at the roadside
+      - Turn on high beams
+      - Honk and continue driving
+      answers: Stop immediately at the roadside
+    - questions: How should you drive when you are in an urban area and encounter
+        a bus stop with passengers?
+      emogis: []
+      options:
+      - Stop to allow them to get on
+      - Slow down and be ready to stop
+      - Speed up and cross quickly
+      - Drive in the left lane
+      answers: Slow down and be ready to stop
+    - questions: What does the sign "No U-Turn" mean?
+      emogis: []
+      options:
+      - Right turns are allowed
+      - Left turns are prohibited
+      - U-turns are prohibited
+      - U-turns are allowed only with signaling
+      answers: U-turns are prohibited
+    - questions: What is the function of the tire pressure monitoring system?
+      emogis: []
+      options:
+      - To reduce noise
+      - To stabilize steering
+      - To alert about low tire pressure
+      - To balance vehicle braking
+      answers: To alert about low tire pressure
+    - questions: ' What is the correct way to drive on a wet and slippery road?'
+      emogis: []
+      options:
+      - Slow down and avoid sharp maneuvers
+      - Speed up to get out of the area
+      - Stop at the side
+      - Drive in the left lane
+      answers: Slow down and avoid sharp maneuvers
+    - questions: ' What is the correct way to drive when approaching an intersection
+        with no signs?'
+      emogis: []
+      options:
+      - Go first if there is no traffic
+      - Yield to the vehicle on your right
+      - Always stop
+      - Speed up to avoid disruption
+      answers: Yield to the vehicle on your right
+    - questions: What does the sign "No Entry for Vehicles with Overheight Cargo"
+        mean?
+      emogis: []
+      options:
+      - Allowed if the cargo is secured well
+      - Prohibited for vehicles over the height limit
+      - Allowed with additional vehicle escort
+      - Allowed only during the day
+      answers: Prohibited for vehicles over the height limit
+    - questions: ' What is the correct way to drive when approaching a vehicle signaling
+        to exit a parking space?'
+      emogis: []
+      options:
+      - Speed up and pass in front of it
+      - Stop and let it exit
+      - Honk to warn
+      - Pass in the opposite lane
+      answers: Stop and let it exit
+    - questions: What does the sign "No Entry for Vehicles with Overlength Cargo"
+        mean?
+      emogis: []
+      options:
+      - Allowed if the cargo only extends from the back
+      - Prohibited for vehicles with cargo exceeding the limit
+      - Allowed with an escort vehicle
+      - Allowed only at night
+      answers: Prohibited for vehicles with cargo exceeding the limit
+    - questions: What is the correct way to drive when approaching a parked vehicle
+        with emergency lights on?
+      emogis: []
+      options:
+      - Speed up and pass
+      - Pass carefully and keep distance
+      - Stop behind it
+      - Pass in the opposite lane
+      answers: Pass carefully and keep distance
+    - questions: What does the sign "No Entry for Vehicles with Overwidth Cargo"
+        mean?
+      emogis: []
+      options:
+      - Allowed if the cargo is marked with lights
+      - Prohibited for vehicles with cargo wider than allowed
+      - Allowed with an escort vehicle
+      - Allowed only during the day
+      answers: Prohibited for vehicles with cargo wider than allowed
+    - questions: What is the correct way to drive when approaching an intersection
+        with the sign "Yield"?
+      emogis: []
+      options:
+      - Always stop
+      - Slow down and continue if there is no traffic
+      - Yield to the approaching vehicle
+      - Go first if you are on the right
+      answers: Yield to the approaching vehicle
+    - questions: What does the sign "No Entry for Vehicles with Hazardous Cargo"
+        mean?
+      emogis: []
+      options:
+      - Allowed if the cargo is secured
+      - Prohibited for vehicles with hazardous cargo
+      - Allowed with police escort
+      - Allowed only during the day
+      answers: Prohibited for vehicles with hazardous cargo
+    - questions: What is the correct way to drive when approaching a vehicle signaling
+        to turn left at an intersection?
+      emogis: []
+      options:
+      - Overtake it from the right carefully
+      - Overtake it from the left
+      - Speed up and pass in front of it
+      - Stop behind it
+      answers: Overtake it from the right carefully
+    - questions: What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+      emogis: []
+      options:
+      - Allowed if the cargo is closed
+      - Prohibited for vehicles with toxic cargo
+      - Allowed with an escort vehicle
+      - Allowed only at night
+      answers: Prohibited for vehicles with toxic cargo
+    - questions: What is the correct way to drive when approaching a vehicle signaling
+        to exit a parking space?
+      emogis: []
+      options:
+      - Speed up and pass in front of it
+      - Stop and let it exit
+      - Honk to warn
+      - Pass in the opposite lane
+      answers: Stop and let it exit
+    - questions: What does the sign "No Entry for Vehicles Over a Certain Weight"
+        mean?
+      emogis: []
+      options:
+      - Heavy vehicles are allowed if there are no additional signs
+      - Prohibited for vehicles exceeding the weight limit
+      - Allowed only for public vehicles
+      - Allowed only at night
+      answers: Prohibited for vehicles exceeding the weight limit
+    - questions: What is the correct way to drive when approaching an intersection
+        with the sign "One-Way Traffic"?
+      emogis: []
+      options:
+      - Drive only in the direction of the arrow
+      - Allowed to drive in any direction
+      - Allowed to turn left only
+      - Allowed to turn right only
+      answers: Drive only in the direction of the arrow
+    - questions: What does the sign "No Entry for Vehicles with Overweight Cargo"
+        mean?
+      emogis: []
+      options:
+      - Allowed if the cargo is secured well
+      - Prohibited for vehicles with cargo exceeding the limit
+      - Allowed if there is escort
+      - Allowed only during the day
+      answers: Prohibited for vehicles with cargo exceeding the limit
+    - questions: What is the correct way to drive when approaching a vehicle signaling
+        to turn right?
+      emogis: []
+      options:
+      - Overtake it from the left carefully
+      - Overtake it from the right
+      - Speed up and pass in front of it
+      - Stop behind it
+      answers: Overtake it from the left carefully
+    - questions: What does the sign "No Entry for Vehicles with Flammable Cargo"
+        mean?
+      emogis: []
+      options:
+      - Allowed for vehicles with flammable cargo if there is permission
+      - Prohibited for vehicles with flammable cargo
+      - Allowed with escort vehicle
+      - Allowed only at night
+      answers: Prohibited for vehicles with flammable cargo
+    - questions: What is the correct way to drive when approaching an intersection
+        with the sign "Traffic Light Ahead"?
+      emogis: []
+      options:
+      - Slow down and prepare to stop
+      - Speed up to make it
+      - Stop immediately
+      - Ignore the traffic light
+      answers: Slow down and prepare to stop
+    - questions: What does the sign "No Entry for Vehicles with Explosive Cargo"
+        mean?
+      emogis: []
+      options:
+      - Allowed if the cargo is secured
+      - Prohibited for vehicles with explosive cargo
+      - Allowed with police escort
+      - Allowed only during the day
+      answers: Prohibited for vehicles with explosive cargo
+    - questions: What is the correct way to drive when approaching a vehicle signaling
+        to turn left at an intersection?
+      emogis: []
+      options:
+      - Overtake it from the right carefully
+      - Overtake it from the left
+      - Speed up and pass in front of it
+      - Stop behind it
+      answers: Overtake it from the right carefully
+    - questions: What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+      emogis: []
+      options:
+      - Allowed if the cargo is closed
+      - Prohibited for vehicles with toxic cargo
+      - Allowed with escort vehicle
+      - Allowed only at night
+      answers: Prohibited for vehicles with toxic cargo

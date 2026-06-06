@@ -1,0 +1,1169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bd4f41b48b288441aed01330a53bd97, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questionAnswers:
+  - questions: "1. What does the following traffic sign mean? \U0001F6AB\U0001F697  "
+    options:
+    - Entry permitted for private vehicles only
+    - ' No entry for motor vehicles'
+    - Entry permitted for public vehicles
+    - Entry permitted for two-wheeled vehicles only
+    answers: ' No entry for motor vehicles'
+  - questions: 2. What should you do when approaching a crosswalk with a pedestrian
+      intending to cross?
+    options:
+    - Slow down and proceed carefully
+    - Honk to warn the pedestrian
+    - Stop and allow them to cross
+    - Carefully overtake the pedestrian
+    answers: Stop and allow them to cross
+  - questions: 3. What is the maximum speed allowed on an urban road if not specified
+      otherwise?
+    options:
+    - 60 km/h
+    - 40 km/h
+    - 70 km/h
+    - 50 km/h
+    answers: 50 km/h
+  - questions: 4. What is the role of the ABS system in a vehicle?
+    options:
+    - To save fuel
+    - To prevent wheel lock during braking
+    - To improve vehicle speed
+    - To activate the airbags
+    answers: To prevent wheel lock during braking
+  - questions: 5. How can you identify a warning sign?
+    options:
+    - Blue circle with a symbol
+    - Green square with text
+    - Triangle with a red border
+    - Yellow rectangle with a black stripe
+    answers: Triangle with a red border
+  - questions: "6. What is your obligation when you see an approaching emergency
+      vehicle with flashing lights? \U0001F691"
+    options:
+    - Continue as normal
+    - Stop on the right and clear the way
+    - Slow down and drive on the shoulder
+    - Speed up to avoid hindrance
+    answers: Stop on the right and clear the way
+  - questions: 7. What does a double solid line mean?
+    options:
+    - Overtaking is allowed with caution
+    - Crossing is allowed only for a left turn
+    - Crossing or overtaking is prohibited
+    - Overtaking is allowed only for two-wheeled vehicles
+    answers: Crossing or overtaking is prohibited
+  - questions: 8. What is the correct way to check tire pressure?
+    options:
+    - After driving for 10 minutes
+    - When the tires are warm
+    - When the tires are cold
+    - Only at a gas station
+    answers: When the tires are cold
+  - questions: 9. What is the danger of driving closely behind the vehicle in front
+      of you?
+    options:
+    - Fuel savings
+    - Insufficient reaction time in an emergency
+    - Wider field of vision
+    - Possibility of quick overtaking
+    answers: Insufficient reaction time in an emergency
+  - questions: 10. What is the role of the seatbelt?
+    options:
+    - To prevent accidents
+    - To reduce injuries in an accident
+    - To improve driving comfort
+    - To activate the airbags
+    answers: To reduce injuries in an accident
+  - questions: 11. What is the correct way to change lanes?
+    options:
+    - Signal and change immediately
+    - Check mirrors only
+    - Check mirrors, signal, check blind spot, and change
+    - Change quickly to avoid disrupting traffic
+    answers: Check mirrors, signal, check blind spot, and change
+  - questions: 12. What is the role of the ESP system in a vehicle?
+    options:
+    - To improve fuel consumption
+    - To maintain vehicle stability during turns
+    - To activate the rear brakes
+    - To activate the automatic lights
+    answers: To maintain vehicle stability during turns
+  - questions: 13. What is the danger of driving under the influence of alcohol?
+    options:
+    - Improved concentration
+    - Impaired judgment and reaction
+    - Increased reaction time
+    - No effect on driving
+    answers: Impaired judgment and reaction
+  - questions: "14. What does a stop sign mean? \U0001F6D1"
+    options:
+    - Slow down and proceed carefully
+    - Stop and yield
+    - Stop only if there is traffic
+    - Allowed to proceed if there is no vehicle on the right
+    answers: Stop and yield
+  - questions: "15 What is the correct way to drive in heavy rain? \U0001F327\uFE0F"
+    options:
+    - Turn on high beams and drive fast
+    - Slow down, turn on lights, and maintain distance
+    - Drive on the shoulder
+    - Stop on the side of the road immediately
+    answers: Slow down, turn on lights, and maintain distance
+  - questions: 16. What does a "no overtaking" sign mean?
+    options:
+    - Overtaking a two-wheeled vehicle is allowed
+    - Overtaking is allowed only from the left
+    - Overtaking another vehicle is prohibited
+    - Overtaking is allowed if there is no additional sign
+    answers: Overtaking another vehicle is prohibited
+  - questions: 17. What is the correct way to drive on a mountain road?
+    options:
+    - Drive in low gear and brake carefully
+    - Drive in high gear
+    - Accelerate downhill
+    - Drive on the shoulder
+    answers: Drive in low gear and brake carefully
+  - questions: 18. What is the role of the cruise control system?
+    options:
+    - To activate the brakes
+    - To maintain a constant speed
+    - To activate the lights
+    - To activate the GPS
+    answers: To maintain a constant speed
+  - questions: 19. What is the correct way to drive an automatic vehicle downhill?
+    options:
+    - Shift to low gear
+    - Brake hard
+    - Accelerate
+    - Shift to Neutral
+    answers: Shift to low gear
+  - questions: "19. What is the danger of driving while tired? \U0001F634"
+    options:
+    - Improved concentration
+    - Decreased concentration and increased accident risk
+    - No effect
+    - Improved reaction time
+    answers: Decreased concentration and increased accident risk
+  - questions: 21. What is the correct way to drive on a slippery road?
+    options:
+    - Accelerate to avoid skidding
+    - Slow down and avoid sharp movements
+    - Brake hard at every turn
+    - Drive on the shoulder
+    answers: Slow down and avoid sharp movements
+  - questions: 22. What does a "main road" sign mean?
+    options:
+    - You must yield
+    - You are on a road with right of way
+    - Overtaking is allowed in any situation
+    - The road is blocked to traffic
+    answers: You are on a road with right of way
+  - questions: 23. What is the correct way to drive with a trailer?
+    options:
+    - Drive fast to avoid disrupting
+    - Drive slowly, avoid sharp turns, and check brakes
+    - Drive only at night
+    - Drive only in the left lane
+    answers: Drive slowly, avoid sharp turns, and check brakes
+  - questions: 24. What does a "no entry" sign mean?
+    options:
+    - Entry is allowed only for public vehicles
+    - Entry is allowed if there is no additional sign
+    - Entry in this direction is prohibited
+    - Entry is allowed if there is no oncoming traffic
+    answers: Entry in this direction is prohibited
+  - questions: "25. What is the correct way to drive at night? \U0001F319"
+    options:
+    - Turn on high beams in every situation
+    - Turn on lights, maintain distance, and slow down
+    - Drive fast to finish quickly
+    - Drive only with parking lights
+    answers: Turn on lights, maintain distance, and slow down
+  - questions: 26. What is the danger of driving at excessive speed?
+    options:
+    - Improved reaction time
+    - Shortened reaction time and increased accident severity
+    - Fuel savings
+    - Reduced risk of an accident
+    answers: Shortened reaction time and increased accident severity
+  - questions: "27. What is the correct way to drive in heavy fog? \U0001F32B\uFE0F"
+    options:
+    - Turn on high beams and drive fast
+    - Turn on fog lights and slow down
+    - Drive only with parking lights
+    - Stop on the side of the road and wait
+    answers: Turn on fog lights and slow down
+  - questions: 28. What does a "roundabout" sign mean?
+    options:
+    - Entry is allowed without slowing down
+    - Enter with caution and yield
+    - You must stop before entering
+    - Overtaking is allowed within the roundabout
+    answers: Enter with caution and yield
+  - questions: 29. What is the correct way to drive when children are near the road?
+    options:
+    - Accelerate to pass quickly
+    - Honk to warn
+    - Slow down and be ready to stop
+    - Drive in the left lane
+    answers: Slow down and be ready to stop
+  - questions: 30. What is your obligation when approaching an intersection without
+      signs?
+    options:
+    - Yield to vehicles on the left
+    - Enter first if there is no traffic
+    - Yield to vehicles on the right
+    - Always stop before the intersection
+    answers: Yield to vehicles on the right
+  - questions: 31. What should you do when approaching an intersection with a "Yield"
+      sign?
+    options:
+    - Slow down and continue if there is no traffic
+    - Always stop
+    - Yield to the vehicle approaching from the blocked direction
+    - Yield to any vehicle approaching the intersection
+    answers: Yield to any vehicle approaching the intersection
+  - questions: 32. What is the correct way to drive when approaching a railway crossing
+      without a barrier?
+    options:
+    - Slow down, look both ways, and proceed with caution
+    - Always stop
+    - Accelerate to pass quickly
+    - Honk to warn the train
+    answers: Slow down, look both ways, and proceed with caution
+  - questions: 33. What does a "No Parking" sign mean?
+    options:
+    - Parking is allowed only at night
+    - Parking is allowed only during the day
+    - No parking is allowed at any time
+    - Parking is allowed if there is no additional sign
+    answers: No parking is allowed at any time
+  - questions: 34. What is the correct way to drive when approaching a school?
+    options:
+    - Slow down and be prepared to stop
+    - Accelerate to avoid disturbing
+    - Honk to warn children
+    - Drive in the left lane
+    answers: Slow down and be prepared to stop
+  - questions: 35. What is the danger of driving too slowly?
+    options:
+    - There is no danger at all
+    - It may cause dangerous overtaking
+    - It saves fuel
+    - It improves reaction time
+    answers: It may cause dangerous overtaking
+  - questions: 36. What is the correct way to drive when approaching a parked vehicle
+      on the side of the road?
+    options:
+    - Accelerate and pass quickly
+    - Pass as closely as possible
+    - Keep a distance and pass carefully
+    - Honk to warn the driver
+    answers: Keep a distance and pass carefully
+  - questions: 37. What does a "No Entry for Bicycles" sign mean?
+    options:
+    - Bicycles are allowed only at night
+    - Bicycles are allowed if there are no vehicles
+    - Bicycles are not allowed in this area
+    - Bicycles are allowed if there is a path
+    answers: Bicycles are not allowed in this area
+  - questions: 38. What is the correct way to drive when approaching an intersection
+      with a flashing yellow traffic light?
+    options:
+    - Always stop
+    - Slow down and drive carefully
+    - Accelerate to pass quickly
+    - Ignore the traffic light
+    answers: Slow down and drive carefully
+  - questions: 39. What is the correct way to drive when approaching a vehicle signaling
+      to overtake?
+    options:
+    - Accelerate to prevent overtaking
+    - Slow down and allow it to overtake
+    - Move to the left lane
+    - Honk to warn
+    answers: Slow down and allow it to overtake
+  - questions: 40. What does a "No Entry for Heavy Vehicles" sign mean?
+    options:
+    - Private vehicles are allowed only
+    - Two-wheeled vehicles are allowed only
+    - Vehicles weighing above the limit are not allowed
+    - Public vehicles are allowed only
+    answers: Vehicles weighing above the limit are not allowed
+  - questions: 41. What is the correct way to drive when approaching an intersection
+      with a "Stop" sign?
+    options:
+    - Slow down and proceed carefully
+    - Stop only if there is traffic
+    - Come to a complete stop and yield
+    - Accelerate to avoid disturbing
+    answers: Come to a complete stop and yield
+  - questions: 42. What does a "No Entry for Two-Wheeled Vehicles" sign mean?
+    options:
+    - Only two-wheeled vehicles are allowed
+    - Two-wheeled vehicles are not allowed to enter
+    - Two-wheeled vehicles are allowed if there is no additional sign
+    - Two-wheeled vehicles are allowed only at night
+    answers: Two-wheeled vehicles are not allowed to enter
+  - questions: 43. What is the correct way to drive when approaching a vehicle signaling
+      to turn left?
+    options:
+    - Overtake it on the right carefully
+    - Overtake it on the left
+    - Accelerate and pass in front of it
+    - Honk to warn
+    answers: Overtake it on the right carefully
+  - questions: 44. What does a "No Entry for Vehicles with Trailers" sign mean?
+    options:
+    - Light trailers are allowed
+    - Vehicles with trailers are not allowed to enter
+    - Only commercial vehicles are allowed
+    - Allowed if the trailer is empty
+    answers: Vehicles with trailers are not allowed to enter
+  - questions: 45. What is the correct way to drive when approaching a hidden crosswalk?
+    options:
+    - Slow down and be prepared to stop
+    - Accelerate to pass quickly
+    - Honk to warn
+    - Drive in the left lane
+    answers: Slow down and be prepared to stop
+  - questions: 46. What does a "No Entry for Public Vehicles" sign mean?
+    options:
+    - Only private vehicles are allowed
+    - Public vehicles are allowed at night
+    - Public vehicles are allowed if there is no additional sign
+    - Public vehicles are allowed with permission
+    answers: Only private vehicles are allowed
+  - questions: 47. What is the correct way to drive when approaching a parked vehicle
+      with an open door?
+    options:
+    - Pass as closely as possible
+    - Slow down and pass carefully
+    - Honk to warn
+    - Accelerate and pass quickly
+    answers: Slow down and pass carefully
+  - questions: 48. What does a "No Entry for Vehicles with Hazardous Materials" sign
+      mean?
+    options:
+    - Vehicles with fuel are allowed only
+    - Vehicles with hazardous materials are not allowed to enter
+    - Vehicles with special permission are allowed
+    - Allowed only at night
+    answers: Vehicles with hazardous materials are not allowed to enter
+  - questions: 49. What is the correct way to drive when approaching an intersection
+      with a "Roundabout" sign?
+    options:
+    - Enter quickly
+    - Always stop
+    - Enter carefully and yield
+    - Enter only if there is no vehicle on the right
+    answers: Enter carefully and yield
+  - questions: 50. What does a "No Entry for Vehicles Above a Certain Height" sign
+      mean?
+    options:
+    - Tall vehicles are allowed if there is no additional sign
+    - Vehicles taller than the limit are not allowed to enter
+    - Public vehicles only
+    - Allowed with a police escort
+    answers: Vehicles taller than the limit are not allowed to enter
+  - questions: 51. What is the correct way to drive when approaching a vehicle signaling
+      to exit a parking space?
+    options:
+    - Accelerate and pass in front of it
+    - Stop and let it exit
+    - Honk to warn
+    - Pass in the opposite lane
+    answers: Stop and let it exit
+  - questions: 52. What does a "No Entry for Vehicles Over a Certain Weight" sign
+      mean?
+    options:
+    - Heavy vehicles are allowed if there is no additional sign
+    - Vehicles weighing above the limit are not allowed to enter
+    - Public vehicles only
+    - Allowed only at night
+    answers: Vehicles weighing above the limit are not allowed to enter
+  - questions: 53. What is the correct way to drive when approaching an intersection
+      with a "One-Way Traffic" sign?
+    options:
+    - Drive only in the direction of the arrow
+    - Allowed to drive in any direction
+    - Allowed to turn left only
+    - Allowed to turn right only
+    answers: Drive only in the direction of the arrow
+  - questions: 54. What does a "No Entry for Vehicles with Oversized Loads" sign
+      mean?
+    options:
+    - Allowed if the load is secured well
+    - Vehicles with loads exceeding the limit are not allowed to enter
+    - Allowed if there is an escort
+    - Allowed only during the day
+    answers: Vehicles with loads exceeding the limit are not allowed to enter
+  - questions: 55. What is the correct way to drive when approaching a vehicle signaling
+      to turn right?
+    options:
+    - Overtake it on the left carefully
+    - Overtake it on the right
+    - Accelerate and pass in front of it
+    - Stop behind it
+    answers: Overtake it on the left carefully
+  - questions: 56. What does a "No Entry for Vehicles with Flammable Cargo" sign
+      mean?
+    options:
+    - Allowed for vehicles with flammable cargo if there is permission
+    - Vehicles with flammable cargo are not allowed to enter
+    - Allowed with an escort
+    - Allowed only at night
+    answers: Vehicles with flammable cargo are not allowed to enter
+  - questions: 57. What is the correct way to drive when approaching an intersection
+      with a "Traffic Light Ahead" sign?
+    options:
+    - Slow down and prepare to stop
+    - Accelerate to make it
+    - Stop immediately
+    - Ignore the traffic light
+    answers: Slow down and prepare to stop
+  - questions: 58. What does a "No Entry for Vehicles with Explosive Cargo" sign
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with explosive cargo are not allowed to enter
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with explosive cargo are not allowed to enter
+  - questions: 29. What is the correct way to drive when approaching a vehicle signaling
+      to turn left at an intersection?
+    options:
+    - Overtake it on the right carefully
+    - Overtake it on the left
+    - Accelerate and pass in front of it
+    - Stop behind it
+    answers: Overtake it on the right carefully
+  - questions: 60. What does a "No Entry for Vehicles with Toxic Cargo" sign mean?
+    options:
+    - Allowed if the cargo is closed
+    - Vehicles with toxic cargo are not allowed to enter
+    - Allowed with another vehicle escort
+    - Allowed only at night
+    answers: Vehicles with toxic cargo are not allowed to enter
+  - questions: 61. What should you do when you hear an emergency vehicle approaching
+      from behind with lights and sirens?
+    options:
+    - Stop immediately in the middle of the road
+    - Slow down and continue
+    - Stick to the right and clear the way
+    - Move to the left lane
+    answers: Stick to the right and clear the way
+  - questions: 62. What is the safest way to cross a traffic light intersection?
+    options:
+    - Speed up to avoid getting stuck at red
+    - Slow down and always stop
+    - Check the traffic and obey the traffic light
+    - Honk before the intersection
+    answers: Check the traffic and obey the traffic light
+  - questions: 63. What is the main reason for keeping a distance from the vehicle
+      in front of you?
+    options:
+    - To improve travel speed
+    - To reduce fuel consumption
+    - To ensure sufficient reaction time
+    - To switch to another lane
+    answers: To ensure sufficient reaction time
+  - questions: 64. What is the maximum speed on a rural road without built-up areas,
+      if there are no other signs?
+    options:
+    - 80 km/h
+    - 110 km/h
+    - 60 km/h
+    - 90 km/h
+    answers: 110 km/h
+  - questions: 65. In which cases is it permissible to cross a solid separation line?
+    options:
+    - For overtaking
+    - When the traffic light is green
+    - For a left turn only
+    - Always, if there is no oncoming traffic
+    answers: For a left turn only
+  - questions: 66. How should you drive when you discover something is wrong with
+      your vehicle while driving?
+    options:
+    - Slow down and continue cautiously
+    - Stop immediately at the roadside
+    - Turn on high beams
+    - Honk and continue driving
+    answers: Stop immediately at the roadside
+  - questions: 67. How should you drive when you are in an urban area and encounter
+      a bus stop with passengers?
+    options:
+    - Stop to allow them to get on
+    - Slow down and be ready to stop
+    - Speed up and cross quickly
+    - Drive in the left lane
+    answers: Slow down and be ready to stop
+  - questions: 68. What does the sign "No U-Turn" mean?
+    options:
+    - Right turns are allowed
+    - Left turns are prohibited
+    - U-turns are prohibited
+    - U-turns are allowed only with signaling
+    answers: U-turns are prohibited
+  - questions: 69. What is the function of the tire pressure monitoring system?
+    options:
+    - To reduce noise
+    - To stabilize steering
+    - To alert about low tire pressure
+    - To balance vehicle braking
+    answers: To alert about low tire pressure
+  - questions: 70. What is the correct way to drive on a wet and slippery road?
+    options:
+    - Slow down and avoid sharp maneuvers
+    - Speed up to get out of the area
+    - Stop at the side
+    - Drive in the left lane
+    answers: Slow down and avoid sharp maneuvers
+  - questions: 71. What is the correct way to drive when approaching an intersection
+      with no signs?
+    options:
+    - Go first if there is no traffic
+    - Yield to the vehicle on your right
+    - Always stop
+    - Speed up to avoid disruption
+    answers: Yield to the vehicle on your right
+  - questions: 72. What does the sign "No Entry for Vehicles with Overheight Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured well
+    - Prohibited for vehicles over the height limit
+    - Allowed with additional vehicle escort
+    - Allowed only during the day
+    answers: Prohibited for vehicles over the height limit
+  - questions: 73. What is the correct way to drive when approaching a vehicle signaling
+      to exit a parking space?
+    options:
+    - Speed up and pass in front of it
+    - Stop and let it exit
+    - Honk to warn
+    - Pass in the opposite lane
+    answers: Stop and let it exit
+  - questions: 74. What does the sign "No Entry for Vehicles with Overlength Cargo"
+      mean?
+    options:
+    - Allowed if the cargo only extends from the back
+    - Prohibited for vehicles with cargo exceeding the limit
+    - Allowed with an escort vehicle
+    - Allowed only at night
+    answers: Prohibited for vehicles with cargo exceeding the limit
+  - questions: 75. What is the correct way to drive when approaching a parked vehicle
+      with emergency lights on?
+    options:
+    - Speed up and pass
+    - Pass carefully and keep distance
+    - Stop behind it
+    - Pass in the opposite lane
+    answers: Pass carefully and keep distance
+  - questions: 76. What does the sign "No Entry for Vehicles with Overwidth Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is marked with lights
+    - Prohibited for vehicles with cargo wider than allowed
+    - Allowed with an escort vehicle
+    - Allowed only during the day
+    answers: Prohibited for vehicles with cargo wider than allowed
+  - questions: 77. What is the correct way to drive when approaching an intersection
+      with the sign "Yield"?
+    options:
+    - Always stop
+    - Slow down and continue if there is no traffic
+    - Yield to the approaching vehicle
+    - Go first if you are on the right
+    answers: Yield to the approaching vehicle
+  - questions: 78. What does the sign "No Entry for Vehicles with Hazardous Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Prohibited for vehicles with hazardous cargo
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Prohibited for vehicles with hazardous cargo
+  - questions: 79. What is the correct way to drive when approaching a vehicle signaling
+      to turn left at an intersection?
+    options:
+    - Overtake it from the right carefully
+    - Overtake it from the left
+    - Speed up and pass in front of it
+    - Stop behind it
+    answers: Overtake it from the right carefully
+  - questions: 80. What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+    options:
+    - Allowed if the cargo is closed
+    - Prohibited for vehicles with toxic cargo
+    - Allowed with an escort vehicle
+    - Allowed only at night
+    answers: Prohibited for vehicles with toxic cargo
+  - questions: 81. What is the correct way to drive when approaching a vehicle signaling
+      to exit a parking space?
+    options:
+    - Speed up and pass in front of it
+    - Stop and let it exit
+    - Honk to warn
+    - Pass in the opposite lane
+    answers: Stop and let it exit
+  - questions: 82. What does the sign "No Entry for Vehicles Over a Certain Weight"
+      mean?
+    options:
+    - Heavy vehicles are allowed if there are no additional signs
+    - Prohibited for vehicles exceeding the weight limit
+    - Allowed only for public vehicles
+    - Allowed only at night
+    answers: Prohibited for vehicles exceeding the weight limit
+  - questions: 83. What is the correct way to drive when approaching an intersection
+      with the sign "One-Way Traffic"?
+    options:
+    - Drive only in the direction of the arrow
+    - Allowed to drive in any direction
+    - Allowed to turn left only
+    - Allowed to turn right only
+    answers: Drive only in the direction of the arrow
+  - questions: 84. What does the sign "No Entry for Vehicles with Overweight Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured well
+    - Prohibited for vehicles with cargo exceeding the limit
+    - Allowed if there is escort
+    - Allowed only during the day
+    answers: Prohibited for vehicles with cargo exceeding the limit
+  - questions: 85. What is the correct way to drive when approaching a vehicle signaling
+      to turn right?
+    options:
+    - Overtake it from the left carefully
+    - Overtake it from the right
+    - Speed up and pass in front of it
+    - Stop behind it
+    answers: Overtake it from the left carefully
+  - questions: 86. What does the sign "No Entry for Vehicles with Flammable Cargo"
+      mean?
+    options:
+    - Allowed for vehicles with flammable cargo if there is permission
+    - Prohibited for vehicles with flammable cargo
+    - Allowed with escort vehicle
+    - Allowed only at night
+    answers: Prohibited for vehicles with flammable cargo
+  - questions: 87. What is the correct way to drive when approaching an intersection
+      with the sign "Traffic Light Ahead"?
+    options:
+    - Slow down and prepare to stop
+    - Speed up to make it
+    - Stop immediately
+    - Ignore the traffic light
+    answers: Slow down and prepare to stop
+  - questions: 88. What does the sign "No Entry for Vehicles with Explosive Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Prohibited for vehicles with explosive cargo
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Prohibited for vehicles with explosive cargo
+  - questions: 89. What is the correct way to drive when approaching a vehicle signaling
+      to turn left at an intersection?
+    options:
+    - Overtake it from the right carefully
+    - Overtake it from the left
+    - Speed up and pass in front of it
+    - Stop behind it
+    answers: Overtake it from the right carefully
+  - questions: 90. What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+    options:
+    - Allowed if the cargo is closed
+    - Prohibited for vehicles with toxic cargo
+    - Allowed with escort vehicle
+    - Allowed only at night
+    answers: Prohibited for vehicles with toxic cargo
+  - questions: 91. What is the correct way to behave when approaching a wet crosswalk
+      in the rain?
+    options:
+    - Accelerate to avoid getting stuck
+    - Slow down and be prepared to stop
+    - Honk to warn pedestrians
+    - Drive in the left lane
+    answers: Slow down and be prepared to stop
+  - questions: 92. What does the sign "No Entry for Vehicles with Flammable Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Allowed with the accompaniment of another vehicle
+    - Vehicles with flammable cargo are prohibited from entering
+    - Allowed only during the day
+    answers: Vehicles with flammable cargo are prohibited from entering
+  - questions: 93. How should you drive when approaching an intersection with a "Stop"
+      sign but no traffic?
+    options:
+    - Slow down and continue
+    - Come to a complete stop and yield
+    - Accelerate and pass
+    - Honk and enter
+    answers: Come to a complete stop and yield
+  - questions: 94. What is the correct way to behave when approaching a parked vehicle
+      with emergency lights on?
+    options:
+    - Accelerate and pass
+    - Pass with caution and maintain distance
+    - Stop behind it
+    - Pass in the opposite lane
+    answers: Pass with caution and maintain distance
+  - questions: 95. What does the sign "No Entry for Vehicles with Explosive Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with explosive cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with explosive cargo are prohibited from entering
+  - questions: 96.What is the correct way to drive when approaching a vehicle signaling
+      a left turn?
+    options:
+    - Overtake it on the right with caution
+    - Overtake it on the left
+    - Accelerate and pass before it
+    - Stop behind it
+    answers: Overtake it on the right with caution
+  - questions: 97. What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with toxic cargo are prohibited from entering
+    - Allowed with the accompaniment of another vehicle
+    - Allowed only at night
+    answers: Vehicles with toxic cargo are prohibited from entering
+  - questions: 98. What is the correct way to behave when approaching an intersection
+      with a flashing yellow traffic light?
+    options:
+    - Always stop
+    - Slow down and drive carefully
+    - Accelerate to pass quickly
+    - Ignore the traffic light
+    answers: Slow down and drive carefully
+  - questions: 99. What does the sign "No Entry for Vehicles with Oversized Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is marked
+    - Vehicles with cargo wider than permitted are prohibited from entering
+    - Allowed with the accompaniment of another vehicle
+    - Allowed only during the day
+    answers: Vehicles with cargo wider than permitted are prohibited from entering
+  - questions: 100. What is the correct way to behave when approaching a vehicle
+      signaling to exit a parking space?
+    options:
+    - Accelerate and pass before it
+    - Stop and let it exit
+    - Honk to warn
+    - Pass in the opposite lane
+    answers: Stop and let it exit
+  - questions: 101. What is the correct way to drive when approaching an intersection
+      without signs?
+    options:
+    - Enter first if there is no traffic
+    - Yield to the vehicle on the right
+    - Always stop
+    - Accelerate to avoid hindering
+    answers: Yield to the vehicle on the right
+  - questions: 102. What does the sign "No Entry for Vehicles with Height Exceeding
+      Limit" mean?
+    options:
+    - Allowed if the cargo is well secured
+    - Vehicles taller than the permitted height are prohibited from entering
+    - Allowed with the accompaniment of another vehicle
+    - Allowed only during the day
+    answers: Vehicles taller than the permitted height are prohibited from entering
+  - questions: 103. What is the correct way to behave when approaching a vehicle
+      signaling to exit a parking space?
+    options:
+    - Accelerate and pass before it
+    - Stop and let it exit
+    - Honk to warn
+    - Pass in the opposite lane
+    answers: Stop and let it exit
+  - questions: 104. What does the sign "No Entry for Vehicles with Length Exceeding
+      Limit" mean?
+    options:
+    - Allowed if the cargo protrudes only from the back
+    - Vehicles with cargo exceeding the permitted length are prohibited from entering
+    - Allowed with escort vehicle
+    - Allowed only at night
+    answers: Vehicles with cargo exceeding the permitted length are prohibited from
+      entering
+  - questions: 105. What is the correct way to behave when approaching a parked vehicle
+      with active emergency lights?
+    options:
+    - Accelerate and pass
+    - Pass with caution and maintain distance
+    - Stop behind it
+    - Pass in the opposite lane
+    answers: Pass with caution and maintain distance
+  - questions: 106. What does the sign "No Entry for Vehicles with Oversized Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is marked with lights
+    - Vehicles with cargo wider than permitted are prohibited from entering
+    - Allowed with the accompaniment of another vehicle
+    - Allowed only during the day
+    answers: Vehicles with cargo wider than permitted are prohibited from entering
+  - questions: 107. What is the correct way to behave when approaching an intersection
+      with a "Yield" sign?
+    options:
+    - Always stop
+    - Slow down and continue if there is no traffic
+    - Yield to the approaching vehicle
+    - Enter first if you are on the right
+    answers: Yield to the approaching vehicle
+  - questions: 108. What does the sign "No Entry for Vehicles with Dangerous Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with dangerous cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with dangerous cargo are prohibited from entering
+  - questions: 109. What is the correct way to drive when approaching a vehicle signaling
+      a left turn at an intersection?
+    options:
+    - Overtake it on the right with caution
+    - Overtake it on the left
+    - Accelerate and pass before it
+    - Stop behind it
+    answers: Overtake it on the right with caution
+  - questions: 110. What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with toxic cargo are prohibited from entering
+    - Allowed with the accompaniment of another vehicle
+    - Allowed only at night
+    answers: Vehicles with toxic cargo are prohibited from entering
+  - questions: 111. What is the correct way to drive when approaching a vehicle signaling
+      a right turn?
+    options:
+    - Overtake it on the left with caution
+    - Overtake it on the right
+    - Accelerate and pass before it
+    - Stop behind it
+    answers: Overtake it on the left with caution
+  - questions: 112. What does the sign "No Entry for Vehicles with Flammable Cargo"
+      mean?
+    options:
+    - Allowed for vehicles with flammable cargo if there is permission
+    - Vehicles with flammable cargo are prohibited from entering
+    - Allowed with escort vehicle
+    - Allowed only at night
+    answers: Vehicles with flammable cargo are prohibited from entering
+  - questions: 113. What is the correct way to behave when approaching an intersection
+      with the sign "Traffic Light Ahead"?
+    options:
+    - Slow down and prepare to stop
+    - Accelerate to make it
+    - Stop immediately
+    - Ignore the traffic light
+    answers: Slow down and prepare to stop
+  - questions: 114. What does the sign "No Entry for Vehicles with Explosive Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with explosive cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with explosive cargo are prohibited from entering
+  - questions: 115. What is the correct way to drive when approaching a vehicle signaling
+      a left turn at an intersection?
+    options:
+    - Overtake it on the right with caution
+    - Overtake it on the left
+    - Accelerate and pass before it
+    - Stop behind it
+    answers: Overtake it on the right with caution
+  - questions: 116. What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with toxic cargo are prohibited from entering
+    - Allowed with the accompaniment of another vehicle
+    - Allowed only at night
+    answers: Vehicles with toxic cargo are prohibited from entering
+  - questions: 117. What is the correct way to behave when approaching an intersection
+      with the sign "Roundabout"?
+    options:
+    - Enter quickly
+    - Always stop
+    - Enter carefully and yield
+    - Enter only if there is no vehicle on the right
+    answers: Enter carefully and yield
+  - questions: 118. What does the sign "No Entry for Vehicles with Dangerous Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with dangerous cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with dangerous cargo are prohibited from entering
+  - questions: 119. What is the correct way to drive when approaching a vehicle signaling
+      a left turn?
+    options:
+    - Overtake it on the right with caution
+    - Overtake it on the left
+    - Accelerate and pass before it
+    - Stop behind it
+    answers: Overtake it on the right with caution
+  - questions: 120. What does the sign "No Entry for Vehicles with Oversized Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is well secured
+    - Vehicles with cargo exceeding the permitted limit are prohibited from entering
+    - Allowed if there is escort
+    - Allowed only during the day
+    answers: Vehicles with cargo exceeding the permitted limit are prohibited from
+      entering
+  - questions: 121. What is the correct way to behave when approaching an intersection
+      with a flashing red light?
+    options:
+    - Come to a complete stop and yield
+    - Slow down and continue
+    - Accelerate to avoid getting stuck
+    - Honk and enter
+    answers: Come to a complete stop and yield
+  - questions: 122. What does the sign "No Entry for Vehicles with Dangerous Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with dangerous cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with dangerous cargo are prohibited from entering
+  - questions: 123. What is the correct way to behave when approaching a vehicle
+      signaling a left turn?
+    options:
+    - Overtake it on the right carefully
+    - Overtake it on the left
+    - Accelerate and pass in front of it
+    - Stop behind it
+    answers: Overtake it on the right carefully
+  - questions: 124. What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+    options:
+    - Allowed if the cargo is closed
+    - Vehicles with toxic cargo are prohibited from entering
+    - Allowed with the escort of another vehicle
+    - Allowed only at night
+    answers: Vehicles with toxic cargo are prohibited from entering
+  - questions: 125. What is the correct way to behave when approaching an intersection
+      with the sign "Roundabout Ahead"?
+    options:
+    - Enter quickly
+    - Always stop
+    - Enter carefully and yield
+    - Enter only if there are no vehicles on the right
+    answers: Enter carefully and yield
+  - questions: 126. What does the sign "No Entry for Vehicles with Flammable Cargo"
+      mean?
+    options:
+    - Allowed for vehicles with flammable cargo if there is permission
+    - Vehicles with flammable cargo are prohibited from entering
+    - Allowed with a patrol vehicle
+    - Allowed only at night
+    answers: Vehicles with flammable cargo are prohibited from entering
+  - questions: 127. What is the correct way to behave when approaching a vehicle
+      signaling a right turn?
+    options:
+    - Overtake it on the left carefully
+    - Overtake it on the right
+    - Accelerate and pass in front of it
+    - Stop behind it
+    answers: Overtake it on the left carefully
+  - questions: 128. What does the sign "No Entry for Vehicles with Explosive Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with explosive cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with explosive cargo are prohibited from entering
+  - questions: 129. What is the correct way to behave when approaching an intersection
+      with the sign "Traffic Light Ahead"?
+    options:
+    - Slow down and prepare to stop
+    - Accelerate to make it
+    - Stop immediately
+    - Ignore the traffic light
+    answers: Slow down and prepare to stop
+  - questions: 130. What does the sign "No Entry for Vehicles with Oversized Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is tied down well
+    - Vehicles with oversized cargo are prohibited from entering
+    - Allowed if escorted
+    - Allowed only during the day
+    answers: Vehicles with oversized cargo are prohibited from entering
+  - questions: 131. What is the correct way to behave when approaching an intersection
+      without signs?
+    options:
+    - Enter first if there is no traffic
+    - Yield to vehicles on the right
+    - Always stop
+    - Accelerate to avoid disrupting
+    answers: Yield to vehicles on the right
+  - questions: 132. What does the sign "No Entry for Vehicles with Height Over Limit"
+      mean?
+    options:
+    - Allowed if the cargo is tied down well
+    - Vehicles taller than the limit are prohibited from entering
+    - Allowed with escort of another vehicle
+    - Allowed only during the day
+    answers: Vehicles taller than the limit are prohibited from entering
+  - questions: 133. What is the correct way to behave when approaching a vehicle
+      signaling to exit a parking space?
+    options:
+    - Accelerate and pass in front of it
+    - Stop and let it exit
+    - Honk to warn
+    - Pass in the opposite lane
+    answers: Stop and let it exit
+  - questions: 134. What does the sign "No Entry for Vehicles with Length Over Limit"
+      mean?
+    options:
+    - Allowed if the cargo extends only from the back
+    - Vehicles with cargo exceeding the limit are prohibited from entering
+    - Allowed with patrol vehicle
+    - Allowed only at night
+    answers: Vehicles with cargo exceeding the limit are prohibited from entering
+  - questions: 135. What is the correct way to behave when approaching a parked vehicle
+      with emergency lights on?
+    options:
+    - Accelerate and pass
+    - Pass carefully and keep distance
+    - Stop behind it
+    - Pass in the opposite lane
+    answers: Pass carefully and keep distance
+  - questions: 136. What does the sign "No Entry for Vehicles with Width Over Limit"
+      mean?
+    options:
+    - Allowed if the cargo is marked with lights
+    - Vehicles wider than the limit are prohibited from entering
+    - Allowed with escort of another vehicle
+    - Allowed only during the day
+    answers: Vehicles wider than the limit are prohibited from entering
+  - questions: 137. What is the correct way to behave when approaching an intersection
+      with the sign "Yield"?
+    options:
+    - Always stop
+    - Slow down and continue if there is no traffic
+    - Yield to the approaching vehicle
+    - Enter first if you are on the right
+    answers: Yield to the approaching vehicle
+  - questions: 138. What does the sign "No Entry for Vehicles with Dangerous Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with dangerous cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with dangerous cargo are prohibited from entering
+  - questions: 139. What is the correct way to behave when approaching a vehicle
+      signaling a left turn at an intersection?
+    options:
+    - Overtake it on the right carefully
+    - Overtake it on the left
+    - Accelerate and pass in front of it
+    - Stop behind it
+    answers: Overtake it on the right carefully
+  - questions: 140. What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+    options:
+    - Allowed if the cargo is closed
+    - Vehicles with toxic cargo are prohibited from entering
+    - Allowed with escort of another vehicle
+    - Allowed only at night
+    answers: Vehicles with toxic cargo are prohibited from entering
+  - questions: 141. What is the correct way to behave when approaching a vehicle
+      signaling a right turn?
+    options:
+    - Overtake it on the left carefully
+    - Overtake it on the right
+    - Accelerate and pass in front of it
+    - Stop behind it
+    answers: Overtake it on the left carefully
+  - questions: 142. What does the sign "No Entry for Vehicles with Flammable Cargo"
+      mean?
+    options:
+    - Allowed for vehicles with flammable cargo if there is permission
+    - Vehicles with flammable cargo are prohibited from entering
+    - Allowed with a patrol vehicle
+    - Allowed only at night
+    answers: Vehicles with flammable cargo are prohibited from entering
+  - questions: 143. What is the correct way to behave when approaching an intersection
+      with the sign "Traffic Light Ahead"?
+    options:
+    - Slow down and prepare to stop
+    - Accelerate to make it
+    - Stop immediately
+    - Ignore the traffic light
+    answers: Slow down and prepare to stop
+  - questions: 144. What does the sign "No Entry for Vehicles with Explosive Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with explosive cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with explosive cargo are prohibited from entering
+  - questions: 145. What is the correct way to behave when approaching a vehicle
+      signaling a left turn at an intersection?
+    options:
+    - Overtake it on the right carefully
+    - Overtake it on the left
+    - Accelerate and pass in front of it
+    - Stop behind it
+    answers: Overtake it on the right carefully
+  - questions: 146. What does the sign "No Entry for Vehicles with Toxic Cargo" mean?
+    options:
+    - Allowed if the cargo is closed
+    - Vehicles with toxic cargo are prohibited from entering
+    - Allowed with escort of another vehicle
+    - Allowed only at night
+    answers: Vehicles with toxic cargo are prohibited from entering
+  - questions: 147. What is the correct way to behave when approaching an intersection
+      with the sign "Roundabout Ahead"?
+    options:
+    - Enter quickly
+    - Always stop
+    - Enter carefully and yield
+    - Enter only if there are no vehicles on the right
+    answers: Enter carefully and yield
+  - questions: 148. What does the sign "No Entry for Vehicles with Dangerous Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is secured
+    - Vehicles with dangerous cargo are prohibited from entering
+    - Allowed with police escort
+    - Allowed only during the day
+    answers: Vehicles with dangerous cargo are prohibited from entering
+  - questions: 149. What is the correct way to behave when approaching a vehicle
+      signaling a left turn?
+    options:
+    - Overtake it on the right carefully
+    - Overtake it on the left
+    - Accelerate and pass in front of it
+    - Stop behind it
+    answers: Overtake it on the right carefully
+  - questions: 150. What does the sign "No Entry for Vehicles with Oversized Cargo"
+      mean?
+    options:
+    - Allowed if the cargo is tied down well
+    - Vehicles with oversized cargo are prohibited from entering
+    - Allowed if escorted
+    - Allowed only during the day
+    answers: Vehicles with oversized cargo are prohibited from entering
