@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: Spanish_Cal_Test2
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: Spanish_Cal_Test2
+    quesAnswers:
+    - questions: "\xBFQu\xE9 significa una se\xF1al amarilla en forma de diamante
+        con una flecha curva y un l\xEDmite de velocidad indicado?"
+      emogis: []
+      options:
+      - "A) Zona resbalosa cuando est\xE1 mojado   "
+      - "B) Velocidad recomendada para la curva pr\xF3xima   "
+      - 'C) Velocidad obligatoria solo para vueltas   '
+      answers: "B) Velocidad recomendada para la curva pr\xF3xima   "
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1l es el l\xEDmite m\xE1ximo de velocidad en la mayor\xEDa
+        de las autopistas de California, a menos que se indique lo contrario? "
+      emogis: []
+      options:
+      - 'A) 55 mph (millas por hora)   '
+      - 'B) 65 mph   '
+      - 'C) 70 mph   '
+      answers: 'B) 65 mph   '
+      correctAnswerIndex: 1
+    - questions: "En una intersecci\xF3n en \u201CT\u201D sin se\xF1ales, \xBFqui\xE9n
+        tiene el derecho de paso?   "
+      emogis: []
+      options:
+      - "A) El veh\xEDculo en el camino que termina   "
+      - "B) El veh\xEDculo en el camino principal   "
+      - "C) El veh\xEDculo de mayor tama\xF1o   "
+      answers: "B) El veh\xEDculo en el camino principal   "
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1l de las siguientes afirmaciones es verdadera sobre el
+        alcohol y la conducci\xF3n?   "
+      emogis: []
+      options:
+      - "A) El caf\xE9 lo har\xE1 recobrar la sobriedad r\xE1pidamente   "
+      - "B) Es seguro conducir despu\xE9s de una copa   "
+      - "C) El alcohol disminuye su tiempo de reacci\xF3n y afecta su juicio   "
+      answers: "C) El alcohol disminuye su tiempo de reacci\xF3n y afecta su juicio   "
+      correctAnswerIndex: 2
+    - questions: "\xBFQu\xE9 debe hacer cuando un autob\xFAs escolar enciende luces
+        rojas intermitentes y extiende su se\xF1al de alto?"
+      emogis: []
+      options:
+      - "A) Avanzar con precauci\xF3n   "
+      - 'B) Detenerse hasta que las luces dejen de parpadear   '
+      - 'C) Reducir la velocidad y pasar por la izquierda   '
+      answers: 'B) Detenerse hasta que las luces dejen de parpadear   '
+      correctAnswerIndex: 1
+    - questions: 'Solo puede estacionarse junto a una banqueta blanca para:   '
+      emogis: []
+      options:
+      - 'A) Subir o bajar pasajeros   '
+      - "B) Cargar mercanc\xEDa o paquetes   "
+      - 'C) Detenerse por cualquier motivo   '
+      answers: 'A) Subir o bajar pasajeros   '
+      correctAnswerIndex: 0
+    - questions: 'Al incorporarse a la autopista, usted debe:   '
+      emogis: []
+      options:
+      - 'A) Detenerse antes de entrar   '
+      - 'B) Conducir despacio y poner direccional   '
+      - "C) Acelerar para igualar la velocidad del tr\xE1fico   "
+      answers: "C) Acelerar para igualar la velocidad del tr\xE1fico   "
+      correctAnswerIndex: 2
+    - questions: 'Al dar vuelta a la izquierda de una calle de un solo sentido a
+        otra calle de un solo sentido, usted debe:'
+      emogis: []
+      options:
+      - 'A) Entrar en cualquier carril disponible   '
+      - "B) Entrar en el carril m\xE1s a la izquierda   "
+      - "C) Entrar en el carril m\xE1s a la derecha   "
+      answers: "B) Entrar en el carril m\xE1s a la izquierda   "
+      correctAnswerIndex: 1
+    - questions: "Si el acelerador se atora mientras conduce, \xBFqu\xE9 debe hacer
+        primero?   "
+      emogis: []
+      options:
+      - "A) Apagar la ignici\xF3n de inmediato   "
+      - 'B) Cambiar a neutral   '
+      - 'C) Accionar el freno de mano   '
+      answers: 'B) Cambiar a neutral   '
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1ndo debe encender las luces delanteras de su veh\xEDculo?   "
+      emogis: []
+      options:
+      - 'A) Solo cuando lo considere necesario   '
+      - "B) 30 minutos antes del atardecer hasta 30 minutos despu\xE9s del amanecer   "
+      - 'C) Cuando la visibilidad sea mayor a 1,000 pies   '
+      answers: "B) 30 minutos antes del atardecer hasta 30 minutos despu\xE9s del
+        amanecer   "
+      correctAnswerIndex: 1
+    - questions: "Un peat\xF3n cruza la calle en un cruce peatonal marcado, pero
+        no hay sem\xE1foros. Usted debe:   "
+      emogis: []
+      options:
+      - 'A) Tocar el claxon una vez para alertarlo   '
+      - 'B) Reducir la velocidad y avanzar   '
+      - 'C) Detenerse y ceder el paso   '
+      answers: 'C) Detenerse y ceder el paso   '
+      correctAnswerIndex: 2
+    - questions: "Seguir muy de cerca o zigzaguear entre el tr\xE1fico se considera:   "
+      emogis: []
+      options:
+      - "A) Conducci\xF3n defensiva   "
+      - "B) Conducci\xF3n distra\xEDda   "
+      - "C) Conducci\xF3n agresiva   "
+      answers: "C) Conducci\xF3n agresiva   "
+      correctAnswerIndex: 2
+    - questions: "Dos l\xEDneas amarillas continuas significan:   "
+      emogis: []
+      options:
+      - 'A) Se permite rebasar desde ambos lados   '
+      - "B) No se permite rebasar en ning\xFAn sentido   "
+      - "C) Solo se permite rebasar durante el d\xEDa   "
+      answers: "B) No se permite rebasar en ning\xFAn sentido   "
+      correctAnswerIndex: 1
+    - questions: 'Los ciclistas:   '
+      emogis: []
+      options:
+      - "A) Deben obedecer las mismas leyes de tr\xE1nsito que los autom\xF3viles   "
+      - "B) Pueden ignorar las se\xF1ales de alto   "
+      - "C) Deben ceder el paso a todos los veh\xEDculos motorizados   "
+      answers: "A) Deben obedecer las mismas leyes de tr\xE1nsito que los autom\xF3viles   "
+      correctAnswerIndex: 0
+    - questions: 'Conducir con llantas poco infladas puede:   '
+      emogis: []
+      options:
+      - 'A) Mejorar el rendimiento de combustible   '
+      - 'B) Provocar falla de llantas y mal manejo   '
+      - "C) Prolongar la vida \xFAtil de las llantas   "
+      answers: 'B) Provocar falla de llantas y mal manejo   '
+      correctAnswerIndex: 1
+    - questions: "En \xE1reas de construcci\xF3n con trabajadores presentes, las
+        multas por infracciones de tr\xE1nsito son:   "
+      emogis: []
+      options:
+      - 'A) Dobles   '
+      - 'B) Reducidas   '
+      - 'C) Suspendidas   '
+      answers: 'A) Dobles   '
+      correctAnswerIndex: 0
+    - questions: "Al salir de un caj\xF3n de estacionamiento en reversa, usted debe:   "
+      emogis: []
+      options:
+      - 'A) Confiar solo en los espejos   '
+      - 'B) Voltear sobre su hombro derecho   '
+      - 'C) Quitar el pie del freno   '
+      answers: 'B) Voltear sobre su hombro derecho   '
+      correctAnswerIndex: 1
+    - questions: 'Al conducir cuesta abajo, usted debe:   '
+      emogis: []
+      options:
+      - 'A) Usar los frenos continuamente   '
+      - "B) Cambiar a una velocidad m\xE1s baja   "
+      - 'C) Apagar el motor   '
+      answers: "B) Cambiar a una velocidad m\xE1s baja   "
+      correctAnswerIndex: 1
+    - questions: 'Al girar a la izquierda con luz verde, pero sin flecha verde, usted
+        debe:   '
+      emogis: []
+      options:
+      - "A) Avanzar r\xE1pido antes de que llegue el tr\xE1fico en sentido contrario   "
+      - "B) Ceder el paso al tr\xE1fico que viene de frente   "
+      - 'C) Girar hacia el carril derecho   '
+      answers: "B) Ceder el paso al tr\xE1fico que viene de frente   "
+      correctAnswerIndex: 1
+    - questions: 'Una flecha amarilla intermitente significa:   '
+      emogis: []
+      options:
+      - "A) Ceda el paso y contin\xFAe con precauci\xF3n   "
+      - "B) Det\xE9ngase completamente   "
+      - 'C) Gire solo con luz verde   '
+      answers: "A) Ceda el paso y contin\xFAe con precauci\xF3n   "
+      correctAnswerIndex: 0
+    - questions: "\xBFCu\xE1ndo debe aumentar la distancia de seguimiento m\xE1s
+        all\xE1 de la regla est\xE1ndar de 3 segundos?   "
+      emogis: []
+      options:
+      - "A) Cuando conduce por debajo del l\xEDmite de velocidad   "
+      - "B) En condiciones clim\xE1ticas ideales   "
+      - "C) En lluvia, niebla o tr\xE1fico pesado   "
+      answers: "C) En lluvia, niebla o tr\xE1fico pesado   "
+      correctAnswerIndex: 2
+    - questions: "Conducir sin una licencia v\xE1lida puede resultar en:   "
+      emogis: []
+      options:
+      - 'A) Sin consecuencia si tiene seguro   '
+      - "B) Una infracci\xF3n y posible decomiso del veh\xEDculo   "
+      - 'C) Solo una advertencia   '
+      answers: "B) Una infracci\xF3n y posible decomiso del veh\xEDculo   "
+      correctAnswerIndex: 1
+    - questions: "Para reducir el deslumbramiento de los veh\xEDculos que vienen
+        de frente por la noche, usted debe:   "
+      emogis: []
+      options:
+      - 'A) Mirar directamente a sus faros   '
+      - 'B) Encender y apagar las luces altas   '
+      - 'C) Mirar hacia el borde derecho de su carril   '
+      answers: 'C) Mirar hacia el borde derecho de su carril   '
+      correctAnswerIndex: 2
+    - questions: "Si otro conductor muestra signos de agresividad vial (road rage),
+        la respuesta m\xE1s segura es:   "
+      emogis: []
+      options:
+      - 'A) Gritar de regreso   '
+      - 'B) Ignorar y evitar el contacto visual   '
+      - 'C) Acelerar para adelantarse   '
+      answers: 'B) Ignorar y evitar el contacto visual   '
+      correctAnswerIndex: 1
+    - questions: 'Debe usar el claxon:   '
+      emogis: []
+      options:
+      - 'A) Para alertar a otros de un peligro   '
+      - 'B) Para expresar impaciencia   '
+      - 'C) Siempre que rebase   '
+      answers: 'A) Para alertar a otros de un peligro   '
+      correctAnswerIndex: 0
+    - questions: "En una carretera de dos carriles, \xBFcu\xE1ndo est\xE1 permitido
+        rebasar por la derecha?   "
+      emogis: []
+      options:
+      - 'A) Solo en zonas escolares   '
+      - 'B) Cuando el auto de adelante va a dar vuelta a la izquierda   '
+      - "C) Cuando hay doble l\xEDnea amarilla   "
+      answers: 'B) Cuando el auto de adelante va a dar vuelta a la izquierda   '
+      correctAnswerIndex: 1
+    - questions: 'Para reducir el riesgo de acuaplaneo (hydroplaning), usted debe:   '
+      emogis: []
+      options:
+      - 'A) Conducir a altas velocidades en caminos mojados   '
+      - 'B) Mantener las llantas infladas y reducir la velocidad en lluvia   '
+      - 'C) Girar bruscamente mientras frena   '
+      answers: 'B) Mantener las llantas infladas y reducir la velocidad en lluvia   '
+      correctAnswerIndex: 1
+    - questions: "\xBFC\xF3mo puede comprobar si est\xE1 siguiendo demasiado cerca
+        a otro veh\xEDculo?   "
+      emogis: []
+      options:
+      - 'A) Usando la regla de los tres segundos   '
+      - 'B) Tocando el claxon regularmente   '
+      - 'C) Manteniendo una distancia fija de 3 metros   '
+      answers: 'A) Usando la regla de los tres segundos   '
+      correctAnswerIndex: 0
+    - questions: "Si las direccionales (luces intermitentes) no funcionan, \xBFc\xF3mo
+        debe indicar un giro a la derecha?   "
+      emogis: []
+      options:
+      - 'A) Extendiendo el brazo izquierdo hacia arriba   '
+      - 'B) Encendiendo y apagando las luces delanteras   '
+      - 'C) Extendiendo el brazo derecho hacia afuera   '
+      answers: 'A) Extendiendo el brazo izquierdo hacia arriba   '
+      correctAnswerIndex: 0
+    - questions: 'Los cinturones de seguridad deben usarse:   '
+      emogis: []
+      options:
+      - 'A) Solo en autopistas   '
+      - 'B) Solo en los asientos delanteros   '
+      - 'C) En todo momento por todos los ocupantes   '
+      answers: 'C) En todo momento por todos los ocupantes   '
+      correctAnswerIndex: 2

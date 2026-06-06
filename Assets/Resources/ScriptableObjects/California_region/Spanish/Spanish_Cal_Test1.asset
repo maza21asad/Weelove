@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: Spanish_Cal_Test1
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: Spanish_Cal_Test1
+    quesAnswers:
+    - questions: "\xBFQu\xE9 indica una se\xF1al amarilla en forma de diamante con
+        la imagen de un venado?   "
+      emogis: []
+      options:
+      - 'A) Refugio de vida silvestre cercano   '
+      - 'B) Zona de cruce de animales adelante   '
+      - 'C) Prohibido cazar   '
+      answers: 'B) Zona de cruce de animales adelante   '
+      correctAnswerIndex: 1
+    - questions: "En una intersecci\xF3n de cuatro v\xEDas sin control, \xBFqui\xE9n
+        pasa primero?   "
+      emogis: []
+      options:
+      - "A) El veh\xEDculo de la izquierda   "
+      - "B) El veh\xEDculo de la derecha   "
+      - "C) El veh\xEDculo m\xE1s grande   "
+      answers: "B) El veh\xEDculo de la derecha   "
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1l es el l\xEDmite de velocidad predeterminado en zonas
+        residenciales a menos que se indique lo contrario? "
+      emogis: []
+      options:
+      - 'A) 25 mph (millas por hora)   '
+      - 'B) 35 mph   '
+      - 'C) 20 mph   '
+      answers: 'A) 25 mph (millas por hora)   '
+      correctAnswerIndex: 0
+    - questions: "\xBFCu\xE1l es el l\xEDmite legal de concentraci\xF3n de alcohol
+        en sangre (BAC, por sus siglas en ingl\xE9s) para conductores adultos (21+)?"
+      emogis: []
+      options:
+      - 'A) 0.05%   '
+      - 'B) 0.08%   '
+      - 'C) 0.10%   '
+      answers: 'B) 0.08%   '
+      correctAnswerIndex: 1
+    - questions: "\xBFQu\xE9 significa una banqueta pintada de rojo?"
+      emogis: []
+      options:
+      - 'A) Zona para subir y bajar pasajeros   '
+      - 'B) Solo para emergencias   '
+      - 'C) Prohibido detenerse, pararse o estacionarse en cualquier momento   '
+      answers: 'C) Prohibido detenerse, pararse o estacionarse en cualquier momento   '
+      correctAnswerIndex: 2
+    - questions: "Si un sem\xE1foro no funciona y no muestra ninguna se\xF1al, \xBFqu\xE9
+        debes hacer?   "
+      emogis: []
+      options:
+      - "A) Proceder como si fuera una parada de cuatro v\xEDas   "
+      - "B) Continuar manejando con precauci\xF3n   "
+      - "C) Llamar a la polic\xEDa y esperar   "
+      answers: "A) Proceder como si fuera una parada de cuatro v\xEDas   "
+      correctAnswerIndex: 0
+    - questions: "\xBFQu\xE9 debes hacer si otro conductor te sigue muy de cerca
+        (tailgating)?   "
+      emogis: []
+      options:
+      - 'A) Acelerar para crear distancia   '
+      - 'B) Frenar de repente   '
+      - "C) Cambiar de carril o aumentar la distancia con el veh\xEDculo de adelante   "
+      answers: "C) Cambiar de carril o aumentar la distancia con el veh\xEDculo de
+        adelante   "
+      correctAnswerIndex: 2
+    - questions: "Cuando se aproxima un veh\xEDculo de emergencia con luces intermitentes,
+        debes:   "
+      emogis: []
+      options:
+      - "A) Mantener velocidad y direcci\xF3n   "
+      - 'B) Orillarte a la derecha y detenerte   '
+      - 'C) Salirte inmediatamente de la carretera   '
+      answers: 'B) Orillarte a la derecha y detenerte   '
+      correctAnswerIndex: 1
+    - questions: "\xBFQui\xE9n es responsable de asegurarse de que los pasajeros
+        menores de 16 a\xF1os usen el cintur\xF3n de seguridad?"
+      emogis: []
+      options:
+      - 'A) El menor   '
+      - 'B) El pasajero delantero   '
+      - 'C) El conductor   '
+      answers: 'C) El conductor   '
+      correctAnswerIndex: 2
+    - questions: 'Al entrar a una glorieta, debes:   '
+      emogis: []
+      options:
+      - "A) Ceder el paso a los veh\xEDculos que ya est\xE1n dentro de la glorieta   "
+      - 'B) Detenerte completamente antes de entrar   '
+      - "C) Tocar el claxon para avisar a los dem\xE1s   "
+      answers: "A) Ceder el paso a los veh\xEDculos que ya est\xE1n dentro de la
+        glorieta   "
+      correctAnswerIndex: 0
+    - questions: "Al cambiar de carril en una v\xEDa de varios carriles, debes:   "
+      emogis: []
+      options:
+      - "A) Tocar el claxon y girar r\xE1pidamente   "
+      - "B) Revisar espejos y puntos ciegos antes de se\xF1alar   "
+      - 'C) Confiar solo en el espejo retrovisor   '
+      answers: "B) Revisar espejos y puntos ciegos antes de se\xF1alar   "
+      correctAnswerIndex: 1
+    - questions: "\xBFQu\xE9 debes hacer al conducir en niebla densa?   "
+      emogis: []
+      options:
+      - 'A) Usar las luces altas   '
+      - 'B) Usar las luces bajas o luces antiniebla   '
+      - "C) Apagar las luces y seguir las luces traseras del veh\xEDculo de adelante   "
+      answers: 'B) Usar las luces bajas o luces antiniebla   '
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1l es el l\xEDmite de velocidad en una zona escolar cuando
+        hay ni\xF1os presentes?   "
+      emogis: []
+      options:
+      - 'A) 20 mph   '
+      - 'B) 25 mph   '
+      - 'C) 15 mph   '
+      answers: 'C) 15 mph   '
+      correctAnswerIndex: 2
+    - questions: "Si los frenos fallan mientras conduces, \xBFqu\xE9 es lo primero
+        que debes intentar?   "
+      emogis: []
+      options:
+      - 'A) Cambiar a reversa   '
+      - 'B) Bombear el pedal del freno   '
+      - 'C) Apagar el motor inmediatamente   '
+      answers: 'B) Bombear el pedal del freno   '
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1ndo debes poner la direccional antes de girar o cambiar
+        de carril?   "
+      emogis: []
+      options:
+      - 'A) Al menos 5 segundos antes   '
+      - "B) Solo cuando otros autos est\xE9n cerca   "
+      - 'C) Justo al comenzar a girar el volante   '
+      answers: 'A) Al menos 5 segundos antes   '
+      correctAnswerIndex: 0
+    - questions: "Llegas a una intersecci\xF3n con una luz roja intermitente. \xBFQu\xE9
+        significa?   "
+      emogis: []
+      options:
+      - "A) Proceder con precauci\xF3n   "
+      - "B) Tratarla como una se\xF1al de alto   "
+      - "C) Pasar r\xE1pido antes de que lleguen otros autos   "
+      answers: "B) Tratarla como una se\xF1al de alto   "
+      correctAnswerIndex: 1
+    - questions: "Al rebasar a un ciclista en la v\xEDa, debes dejar una distancia
+        m\xEDnima de:   "
+      emogis: []
+      options:
+      - 'A) 1 pie (aprox. 30 cm)   '
+      - 'B) 3 pies (aprox. 1 metro)   '
+      - 'C) 5 pies (aprox. 1.5 metros)   '
+      answers: 'B) 3 pies (aprox. 1 metro)   '
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1l es la causa principal de derrapes?   "
+      emogis: []
+      options:
+      - "A) Aceleraci\xF3n repentina   "
+      - "B) Conducir demasiado r\xE1pido para las condiciones   "
+      - 'C) Usar velocidades bajas en pendientes   '
+      answers: "B) Conducir demasiado r\xE1pido para las condiciones   "
+      correctAnswerIndex: 1
+    - questions: "En un cruce peatonal sin se\xF1alizaci\xF3n, los conductores deben:   "
+      emogis: []
+      options:
+      - "A) Detenerse solo si los peatones ya est\xE1n cruzando   "
+      - 'B) Disminuir la velocidad pero no detenerse   '
+      - 'C) Ceder el paso a los peatones   '
+      answers: 'C) Ceder el paso a los peatones   '
+      correctAnswerIndex: 2
+    - questions: "\xBFA qu\xE9 distancia m\xEDnima debes estacionarte de una toma
+        de agua para bomberos?   "
+      emogis: []
+      options:
+      - "A) 15 pies (aprox. 4.5 metros) o m\xE1s   "
+      - 'B) 10 pies   '
+      - 'C) 5 pies   '
+      answers: "A) 15 pies (aprox. 4.5 metros) o m\xE1s   "
+      correctAnswerIndex: 0
+    - questions: 'Si te pasas de tu salida en la autopista, debes:   '
+      emogis: []
+      options:
+      - 'A) Echarte en reversa con cuidado   '
+      - 'B) Conducir hasta la siguiente salida   '
+      - 'C) Dar una vuelta en "U"   '
+      answers: 'B) Conducir hasta la siguiente salida   '
+      correctAnswerIndex: 1
+    - questions: "La mejor manera de evitar conducir con sue\xF1o es:   "
+      emogis: []
+      options:
+      - "A) Tomar caf\xE9 cada hora   "
+      - 'B) Abrir las ventanas   '
+      - 'C) Dormir lo suficiente antes de manejar   '
+      answers: 'C) Dormir lo suficiente antes de manejar   '
+      correctAnswerIndex: 2
+    - questions: "\xBFCu\xE1ndo es legal dar una vuelta en \"U\" en zonas residenciales?   "
+      emogis: []
+      options:
+      - 'A) En cualquier momento   '
+      - "B) Solo cuando no se aproximen veh\xEDculos a menos de 200 pies (aprox.
+        60 metros)   "
+      - "C) Solo en intersecciones con sem\xE1foro   "
+      answers: "B) Solo cuando no se aproximen veh\xEDculos a menos de 200 pies (aprox.
+        60 metros)   "
+      correctAnswerIndex: 1
+    - questions: "Cuando las calles est\xE1n mojadas, el momento m\xE1s resbaloso
+        suele ser:   "
+      emogis: []
+      options:
+      - "A) Despu\xE9s de varias horas de lluvia   "
+      - "B) Justo despu\xE9s de que empieza a llover   "
+      - 'C) Durante una lluvia intensa   '
+      answers: "B) Justo despu\xE9s de que empieza a llover   "
+      correctAnswerIndex: 1
+    - questions: "Los ni\xF1os menores de 2 a\xF1os deben ir asegurados en:   "
+      emogis: []
+      options:
+      - 'A) Un asiento infantil orientado hacia adelante   '
+      - "B) Un asiento infantil orientado hacia atr\xE1s   "
+      - 'C) Un asiento elevador (booster seat)   '
+      answers: "B) Un asiento infantil orientado hacia atr\xE1s   "
+      correctAnswerIndex: 1
+    - questions: "Conducir demasiado cerca del veh\xEDculo de adelante es:   "
+      emogis: []
+      options:
+      - "A) Aceptable en tr\xE1fico de ciudad   "
+      - 'B) Conocido como "tailgating" y es ilegal   '
+      - 'C) Permitido si vas a menos de 25 mph   '
+      answers: 'B) Conocido como "tailgating" y es ilegal   '
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1ndo debes usar el claxon?   "
+      emogis: []
+      options:
+      - 'A) Para alertar de un peligro   '
+      - "B) Para expresar frustraci\xF3n   "
+      - "C) En los sem\xE1foros para apresurar a otros   "
+      answers: 'A) Para alertar de un peligro   '
+      correctAnswerIndex: 0
+    - questions: 'Al girar a la izquierda hacia una calle de un solo sentido, debes
+        girar:   '
+      emogis: []
+      options:
+      - 'A) Hacia cualquier carril disponible   '
+      - "B) Hacia el carril m\xE1s cercano a la banqueta izquierda   "
+      - "C) Hacia el carril m\xE1s a la derecha   "
+      answers: "B) Hacia el carril m\xE1s cercano a la banqueta izquierda   "
+      correctAnswerIndex: 1
+    - questions: "Una l\xEDnea blanca pintada a lo ancho del carril antes de una
+        intersecci\xF3n indica:   "
+      emogis: []
+      options:
+      - 'A) No detenerse   '
+      - "B) El carril termina m\xE1s adelante   "
+      - "C) L\xEDnea de alto para veh\xEDculos   "
+      answers: "C) L\xEDnea de alto para veh\xEDculos   "
+      correctAnswerIndex: 2
+    - questions: "\xBFQu\xE9 aumenta el riesgo de hidroplaneo?   "
+      emogis: []
+      options:
+      - 'A) Conducir sobre asfalto seco   '
+      - 'B) Conducir a baja velocidad   '
+      - 'C) Conducir sobre caminos mojados a alta velocidad   '
+      answers: 'C) Conducir sobre caminos mojados a alta velocidad   '
+      correctAnswerIndex: 2

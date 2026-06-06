@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: English_Cal_Test5
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: English_Cal_Test5
+    quesAnswers:
+    - questions: 'What does a red arrow traffic signal mean? '
+      emogis: []
+      options:
+      - 'A) Proceed after stopping   '
+      - "B) Turns in the arrow\u2019s direction are not allowed   "
+      - 'C) Stop only for pedestrians   '
+      answers: "B) Turns in the arrow\u2019s direction are not allowed   "
+      correctAnswerIndex: 1
+    - questions: What is the speed limit within 100 feet of a railroad crossing where
+        you cannot see 400 feet in both directions?
+      emogis: []
+      options:
+      - 'A) 25 mph   '
+      - 'B) 15 mph   '
+      - 'C) 35 mph   '
+      answers: 'B) 15 mph   '
+      correctAnswerIndex: 1
+    - questions: 'If a pedestrian makes eye contact with you while crossing without
+        a signal:   '
+      emogis: []
+      options:
+      - 'A) Proceed with caution   '
+      - 'B) Assume they will wait   '
+      - 'C) Yield and stop   '
+      answers: 'C) Yield and stop   '
+      correctAnswerIndex: 2
+    - questions: 'At night, you must dim your headlights to low beam when:   '
+      emogis: []
+      options:
+      - 'A) There are no street lights   '
+      - 'B) Driving in the rain   '
+      - 'C) Approaching or following another vehicle   '
+      answers: 'C) Approaching or following another vehicle   '
+      correctAnswerIndex: 2
+    - questions: 'Failing to stop for a school bus with flashing red lights may result
+        in:   '
+      emogis: []
+      options:
+      - 'A) A warning   '
+      - 'B) No penalty if no children are present   '
+      - 'C) A fine and possible license suspension   '
+      answers: 'C) A fine and possible license suspension   '
+      correctAnswerIndex: 2
+    - questions: 'U-turns are prohibited:   '
+      emogis: []
+      options:
+      - 'A) In front of fire stations   '
+      - 'B) In business areas with no signs   '
+      - 'C) On divided highways   '
+      answers: 'A) In front of fire stations   '
+      correctAnswerIndex: 0
+    - questions: 'When turning left on a solid green light, you must:   '
+      emogis: []
+      options:
+      - 'A) Yield to oncoming traffic   '
+      - 'B) Proceed immediately   '
+      - 'C) Wait for a red arrow   '
+      answers: 'A) Yield to oncoming traffic   '
+      correctAnswerIndex: 0
+    - questions: 'What should you do if another driver cuts you off in traffic?   '
+      emogis: []
+      options:
+      - 'A) Honk and follow closely   '
+      - 'B) Slow down and give space   '
+      - 'C) Flash your lights in retaliation   '
+      answers: 'B) Slow down and give space   '
+      correctAnswerIndex: 1
+    - questions: 'A provisional license for drivers under 18 restricts:   '
+      emogis: []
+      options:
+      - 'A) Nighttime driving and transporting young passengers   '
+      - 'B) Highway driving   '
+      - 'C) Driving without insurance   '
+      answers: 'A) Nighttime driving and transporting young passengers   '
+      correctAnswerIndex: 0
+    - questions: 'To ensure your tires are safe, you should:   '
+      emogis: []
+      options:
+      - 'A) Check air pressure and tread regularly   '
+      - 'B) Replace them every six years, regardless of condition   '
+      - 'C) Only inspect during oil changes   '
+      answers: 'A) Check air pressure and tread regularly   '
+      correctAnswerIndex: 0
+    - questions: 'Yellow-painted curbs indicate:   '
+      emogis: []
+      options:
+      - 'A) No stopping   '
+      - 'B) Loading zone for limited time   '
+      - 'C) Parking for residents only   '
+      answers: 'B) Loading zone for limited time   '
+      correctAnswerIndex: 1
+    - questions: 'When driving near a motorcycle, you should:   '
+      emogis: []
+      options:
+      - 'A) Maintain extra space   '
+      - 'B) Expect them to swerve   '
+      - 'C) Overtake immediately   '
+      answers: 'A) Maintain extra space   '
+      correctAnswerIndex: 0
+    - questions: 'In windy conditions, you should:   '
+      emogis: []
+      options:
+      - 'A) Keep a firm grip on the wheel   '
+      - 'B) Speed up to compensate   '
+      - 'C) Use cruise control   '
+      answers: 'A) Keep a firm grip on the wheel   '
+      correctAnswerIndex: 0
+    - questions: 'When making a right turn, check for:   '
+      emogis: []
+      options:
+      - 'A) Parked cars   '
+      - 'B) Bicyclists riding alongside   '
+      - 'C) Speed limit changes   '
+      answers: 'B) Bicyclists riding alongside   '
+      correctAnswerIndex: 1
+    - questions: 'When driving in snow or heavy rain, you should use:   '
+      emogis: []
+      options:
+      - 'A) High beams only   '
+      - 'B) Fog lights and low beams   '
+      - 'C) Emergency flashers   '
+      answers: 'B) Fog lights and low beams   '
+      correctAnswerIndex: 1
+    - questions: "If you move to California, you must apply for a driver\u2019s license
+        within:   "
+      emogis: []
+      options:
+      - 'A) 30 days   '
+      - 'B) 60 days   '
+      - 'C) 10 days   '
+      answers: 'C) 10 days   '
+      correctAnswerIndex: 2
+    - questions: 'Vehicles with anti-lock brakes (ABS) should:   '
+      emogis: []
+      options:
+      - 'A) Pump the brakes   '
+      - 'B) Apply firm, continuous pressure   '
+      - 'C) Use the parking brake   '
+      answers: 'B) Apply firm, continuous pressure   '
+      correctAnswerIndex: 1
+    - questions: 'You may legally block an intersection:   '
+      emogis: []
+      options:
+      - "A) If there\u2019s no cross traffic   "
+      - 'B) If your light is green   '
+      - 'C) Under no circumstances   '
+      answers: 'C) Under no circumstances   '
+      correctAnswerIndex: 2
+    - questions: 'What do regulatory signs typically look like?   '
+      emogis: []
+      options:
+      - 'A) Orange and black   '
+      - 'B) White with black or red lettering   '
+      - 'C) Green with white symbols   '
+      answers: 'B) White with black or red lettering   '
+      correctAnswerIndex: 1
+    - questions: 'If a tire blows out while driving, you should:   '
+      emogis: []
+      options:
+      - 'A) Slam on the brakes   '
+      - 'B) Grip the wheel and slow down gradually   '
+      - 'C) Immediately swerve off the road   '
+      answers: 'B) Grip the wheel and slow down gradually   '
+      correctAnswerIndex: 1
+    - questions: 'Which of the following is true about construction zones?   '
+      emogis: []
+      options:
+      - 'A) Workers are protected by their safety gear   '
+      - 'B) Violations may lead to doubled fines   '
+      - 'C) Speed limits do not apply   '
+      answers: 'B) Violations may lead to doubled fines   '
+      correctAnswerIndex: 1
+    - questions: 'When parking on any hill, always:   '
+      emogis: []
+      options:
+      - 'A) Leave wheels straight   '
+      - 'B) Leave car in neutral   '
+      - 'C) Set the parking brake   '
+      answers: 'C) Set the parking brake   '
+      correctAnswerIndex: 2
+    - questions: 'At a roundabout, you must yield to:   '
+      emogis: []
+      options:
+      - 'A) Vehicles entering after you   '
+      - 'B) Vehicles already in the roundabout   '
+      - 'C) No one   '
+      answers: 'B) Vehicles already in the roundabout   '
+      correctAnswerIndex: 1
+    - questions: 'If you cannot see more than 100 feet ahead due to fog, you:   '
+      emogis: []
+      options:
+      - 'A) May not legally drive faster than 30 mph   '
+      - 'B) Should stop immediately   '
+      - 'C) Must use high beams   '
+      answers: 'A) May not legally drive faster than 30 mph   '
+      correctAnswerIndex: 0
+    - questions: 'When making a left turn from a two-way street onto a one-way street,
+        you should begin in:   '
+      emogis: []
+      options:
+      - 'A) The right lane   '
+      - 'B) The lane closest to the center line   '
+      - 'C) Any available lane   '
+      answers: 'B) The lane closest to the center line   '
+      correctAnswerIndex: 0
+    - questions: 'If two vehicles arrive at a merge point at the same time, who must
+        yield?   '
+      emogis: []
+      options:
+      - 'A) Vehicle on the left   '
+      - 'B) Vehicle on the right   '
+      - 'C) The larger vehicle   '
+      answers: 'A) Vehicle on the left   '
+      correctAnswerIndex: 0
+    - questions: 'You should use your hazard flashers when:   '
+      emogis: []
+      options:
+      - 'A) Stopped due to emergency or breakdown   '
+      - 'B) Driving slowly in normal traffic   '
+      - 'C) Turning left at an intersection   '
+      answers: 'A) Stopped due to emergency or breakdown   '
+      correctAnswerIndex: 0
+    - questions: 'A pentagon-shaped yellow sign indicates:   '
+      emogis: []
+      options:
+      - 'A) Recreational area   '
+      - 'B) School zone or crossing   '
+      - 'C) Playground   '
+      answers: 'B) School zone or crossing   '
+      correctAnswerIndex: 1
+    - questions: 'When passing a horse rider on a public road, you should:   '
+      emogis: []
+      options:
+      - 'A) Honk to alert them   '
+      - 'B) Slow down and pass at a safe distance   '
+      - 'C) Speed by to reduce time near the horse   '
+      answers: 'B) Slow down and pass at a safe distance   '
+      correctAnswerIndex: 1
+    - questions: 'Drivers with medical conditions affecting driving must:   '
+      emogis: []
+      options:
+      - 'A) Notify their insurance   '
+      - 'B) Inform the DMV   '
+      - 'C) Drive only at night   '
+      answers: 'B) Inform the DMV   '
+      correctAnswerIndex: 1

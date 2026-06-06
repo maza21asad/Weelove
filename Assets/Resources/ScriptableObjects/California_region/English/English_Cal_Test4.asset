@@ -1,0 +1,262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: English_Cal_Test4
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: English_Cal_Test4
+    quesAnswers:
+    - questions: 'What does a green arrow appearing with a red light mean? '
+      emogis: []
+      options:
+      - 'A) You must wait for green light  '
+      - "B) You may proceed in the arrow\u2019s direction   "
+      - 'C) The signal is malfunctioning   '
+      answers: "B) You may proceed in the arrow\u2019s direction   "
+      correctAnswerIndex: 1
+    - questions: 'What is the maximum speed limit for vehicles towing trailers on
+        California freeways?   '
+      emogis: []
+      options:
+      - 'A) 55 mph   '
+      - 'B) 65 mph   '
+      - 'C) 70 mph   '
+      answers: 'A) 55 mph   '
+      correctAnswerIndex: 0
+    - questions: 'When entering a roadway from a driveway, you must:   '
+      emogis: []
+      options:
+      - 'A) Yield to traffic already on the road   '
+      - 'B) Honk and proceed quickly   '
+      - 'C) Always turn right   '
+      answers: 'A) Yield to traffic already on the road   '
+      correctAnswerIndex: 0
+    - questions: 'Double white lines on the freeway indicate:   '
+      emogis: []
+      options:
+      - 'A) You may change lanes cautiously   '
+      - 'B) You must not change lanes   '
+      - 'C) HOV lane begins ahead   '
+      answers: 'B) You must not change lanes   '
+      correctAnswerIndex: 1
+    - questions: 'It is illegal to drive a vehicle without:   '
+      emogis: []
+      options:
+      - 'A) Tinted windows   '
+      - 'B) Working windshield wipers   '
+      - 'C) Chrome mirrors   '
+      answers: 'B) Working windshield wipers   '
+      correctAnswerIndex: 1
+    - questions: 'If your vehicle starts to overheat, you should:   '
+      emogis: []
+      options:
+      - 'A) Turn off the air conditioner   '
+      - 'B) Accelerate to cool the engine   '
+      - 'C) Open the radiator cap immediately   '
+      answers: 'A) Turn off the air conditioner   '
+      correctAnswerIndex: 0
+    - questions: 'When visibility is reduced at night, you should:   '
+      emogis: []
+      options:
+      - 'A) Drive faster to avoid glare   '
+      - 'B) Use parking lights only   '
+      - 'C) Slow down and use low beams   '
+      answers: 'C) Slow down and use low beams   '
+      correctAnswerIndex: 2
+    - questions: 'Before changing lanes, you should:   '
+      emogis: []
+      options:
+      - 'A) Only check the rearview mirror   '
+      - 'B) Rely on sensors only   '
+      - 'C) Check mirrors and glance over your shoulder   '
+      answers: 'C) Check mirrors and glance over your shoulder   '
+      correctAnswerIndex: 2
+    - questions: 'Who must wear seat belts in a moving vehicle?   '
+      emogis: []
+      options:
+      - 'A) Front seat passengers only   '
+      - 'B) Only those under 18   '
+      - 'C) All occupants   '
+      answers: 'C) All occupants   '
+      correctAnswerIndex: 2
+    - questions: 'In a school zone with no posted speed limit, when children are
+        present you must drive no faster than:   '
+      emogis: []
+      options:
+      - 'A) 20 mph   '
+      - 'B) 15 mph   '
+      - 'C) 25 mph   '
+      answers: 'C) 25 mph   '
+      correctAnswerIndex: 2
+    - questions: 'What does a blue-painted curb indicate?   '
+      emogis: []
+      options:
+      - 'A) Loading only   '
+      - 'B) No stopping   '
+      - 'C) Parking for disabled persons   '
+      answers: 'C) Parking for disabled persons   '
+      correctAnswerIndex: 2
+    - questions: 'The best way to avoid sudden last-minute maneuvers is to:   '
+      emogis: []
+      options:
+      - 'A) Drive slowly in all conditions   '
+      - 'B) Constantly scan the road ahead   '
+      - 'C) Follow the car in front closely   '
+      answers: 'B) Constantly scan the road ahead   '
+      correctAnswerIndex: 1
+    - questions: 'When parking uphill with a curb, turn your front wheels:   '
+      emogis: []
+      options:
+      - 'A) Toward the curb   '
+      - 'B) Away from the curb   '
+      - 'C) Straight ahead   '
+      answers: 'B) Away from the curb   '
+      correctAnswerIndex: 1
+    - questions: 'A white line separating lanes going in the same direction means:   '
+      emogis: []
+      options:
+      - 'A) Passing is illegal   '
+      - 'B) Lane change is discouraged   '
+      - 'C) You may change lanes with caution   '
+      answers: 'C) You may change lanes with caution   '
+      correctAnswerIndex: 2
+    - questions: 'Which organ is primarily responsible for eliminating alcohol from
+        the bloodstream? '
+      emogis: []
+      options:
+      - 'A) Lungs   '
+      - 'B) Liver   '
+      - 'C) Kidneys   '
+      answers: 'B) Liver   '
+      correctAnswerIndex: 1
+    - questions: 'Accumulating too many points on your driving record may result
+        in:   '
+      emogis: []
+      options:
+      - 'A) Higher insurance only   '
+      - 'B) Loss of registration   '
+      - 'C) Suspension of driving privileges   '
+      answers: 'C) Suspension of driving privileges   '
+      correctAnswerIndex: 2
+    - questions: 'What should you do when a blind pedestrian steps off the curb with
+        a white cane?   '
+      emogis: []
+      options:
+      - 'A) Rev your engine to signal presence   '
+      - 'B) Stop and remain stopped until they cross   '
+      - 'C) Wait only if traffic is present   '
+      answers: 'B) Stop and remain stopped until they cross   '
+      correctAnswerIndex: 1
+    - questions: 'On freeways, use the right lane for:   '
+      emogis: []
+      options:
+      - 'A) Passing only   '
+      - 'B) Slower traffic   '
+      - 'C) Emergency stops   '
+      answers: 'B) Slower traffic   '
+      correctAnswerIndex: 1
+    - questions: 'Hazard lights may be used when:   '
+      emogis: []
+      options:
+      - 'A) Parking in a no-parking zone   '
+      - 'B) Driving through heavy fog or breakdowns   '
+      - 'C) Turning right   '
+      answers: 'B) Driving through heavy fog or breakdowns   '
+      correctAnswerIndex: 1
+    - questions: 'Gravel or unpaved roads require:   '
+      emogis: []
+      options:
+      - 'A) High speed for balance   '
+      - 'B) Reduced speed and increased following distance   '
+      - 'C) Use of high beams   '
+      answers: 'B) Reduced speed and increased following distance   '
+      correctAnswerIndex: 1
+    - questions: 'If your vehicle''s turn signals fail, you should:   '
+      emogis: []
+      options:
+      - 'A) Cancel your trip   '
+      - 'B) Use hand signals   '
+      - 'C) Turn without signaling   '
+      answers: 'B) Use hand signals   '
+      correctAnswerIndex: 1
+    - questions: 'When making a quick stop on a wet road, you should:   '
+      emogis: []
+      options:
+      - 'A) Slam the brakes   '
+      - 'B) Pump the brakes (if no ABS)   '
+      - 'C) Shift to neutral   '
+      answers: 'B) Pump the brakes (if no ABS)   '
+      correctAnswerIndex: 1
+    - questions: 'You approach a flashing red light at an intersection. You must:   '
+      emogis: []
+      options:
+      - 'A) Slow down only   '
+      - 'B) Stop, then proceed when safe   '
+      - 'C) Ignore it   '
+      answers: 'B) Stop, then proceed when safe   '
+      correctAnswerIndex: 1
+    - questions: 'It is unsafe to pass another vehicle:   '
+      emogis: []
+      options:
+      - 'A) On two-lane roads   '
+      - 'B) Near a hill or curve without clear view ahead   '
+      - 'C) When using turn signals   '
+      answers: 'B) Near a hill or curve without clear view ahead   '
+      correctAnswerIndex: 1
+    - questions: 'A sign with an image of a truck descending a slope indicates:   '
+      emogis: []
+      options:
+      - 'A) Steep hill ahead   '
+      - 'B) Truck stop ahead   '
+      - 'C) No trucks allowed   '
+      answers: 'A) Steep hill ahead   '
+      correctAnswerIndex: 0
+    - questions: 'Oil on the roadway is most slippery:   '
+      emogis: []
+      options:
+      - 'A) After several days of rain   '
+      - 'B) Right after it starts to rain   '
+      - 'C) During the hottest hours   '
+      answers: 'B) Right after it starts to rain   '
+      correctAnswerIndex: 1
+    - questions: 'A broken white line between lanes means:   '
+      emogis: []
+      options:
+      - 'A) No passing   '
+      - 'B) Free lane changes permitted with caution   '
+      - 'C) Road ends ahead   '
+      answers: 'B) Free lane changes permitted with caution   '
+      correctAnswerIndex: 1
+    - questions: 'Bridges and overpasses freeze:   '
+      emogis: []
+      options:
+      - 'A) Later than the rest of the road   '
+      - 'B) Last during cold weather   '
+      - 'C) Before the rest of the road   '
+      answers: 'C) Before the rest of the road   '
+      correctAnswerIndex: 2
+    - questions: 'Driving without headlights after dark is:   '
+      emogis: []
+      options:
+      - 'A) Legal on well-lit roads   '
+      - 'B) A moving violation   '
+      - 'C) Permitted in cities   '
+      answers: 'B) A moving violation   '
+      correctAnswerIndex: 1
+    - questions: 'Using voice-activated systems while driving is:   '
+      emogis: []
+      options:
+      - 'A) Prohibited in all cases   '
+      - 'B) Allowed if hands-free   '
+      - 'C) Acceptable only when parked   '
+      answers: 'B) Allowed if hands-free   '
+      correctAnswerIndex: 1

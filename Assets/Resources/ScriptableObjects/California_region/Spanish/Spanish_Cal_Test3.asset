@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: Spanish_Cal_Test3
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: Spanish_Cal_Test3
+    quesAnswers:
+    - questions: "\xBFQu\xE9 indica una se\xF1al rectangular blanca que dice \"Do
+        Not Pass\"?   "
+      emogis: []
+      options:
+      - "A) Se permite rebasar solo durante el d\xEDa   "
+      - "B) No debe rebasar a otros veh\xEDculos   "
+      - "C) El tr\xE1fico lento debe mantenerse a la derecha   "
+      answers: "B) No debe rebasar a otros veh\xEDculos   "
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1l es el l\xEDmite de velocidad establecido en los callejones
+        en California, a menos que se indique lo contrario?"
+      emogis: []
+      options:
+      - 'A) 40 km/h (25 mph)   '
+      - 'B) 16 km/h (10 mph)   '
+      - 'C) 24 km/h (15 mph)   '
+      answers: 'C) 24 km/h (15 mph)   '
+      correctAnswerIndex: 2
+    - questions: "Usted se acerca a un cruce peatonal con un peat\xF3n esperando
+        para cruzar. \xBFQu\xE9 debe hacer?   "
+      emogis: []
+      options:
+      - "A) Reducir la velocidad y hacerle se\xF1as para que cruce   "
+      - 'B) Detenerse y ceder el paso   '
+      - "C) Avanzar si no hay otros veh\xEDculos cerca   "
+      answers: 'B) Detenerse y ceder el paso   '
+      correctAnswerIndex: 1
+    - questions: "\xBFCu\xE1l de las siguientes afirmaciones es verdadera?   "
+      emogis: []
+      options:
+      - "A) Puede conducir de manera segura despu\xE9s de una peque\xF1a cantidad
+        de alcohol   "
+      - "B) El alcohol afecta el juicio antes que la coordinaci\xF3n   "
+      - 'C) Los refrescantes bucales reducen el nivel de alcohol en la sangre   '
+      answers: "B) El alcohol afecta el juicio antes que la coordinaci\xF3n   "
+      correctAnswerIndex: 1
+    - questions: 'Un carril central para vueltas a la izquierda se utiliza:   '
+      emogis: []
+      options:
+      - 'A) Para rebasar   '
+      - "B) Para dar vueltas a la izquierda o vueltas en \"U\" cuando est\xE1 permitido   "
+      - "C) Como carril de incorporaci\xF3n   "
+      answers: "B) Para dar vueltas a la izquierda o vueltas en \"U\" cuando est\xE1
+        permitido   "
+      correctAnswerIndex: 1
+    - questions: "Si ve un veh\xEDculo de emergencia detenido adelante con luces
+        intermitentes, usted debe:   "
+      emogis: []
+      options:
+      - 'A) Detenerse en su carril   '
+      - "B) Cambiarse a otro carril, si es seguro (Ley de Moverse a un Lado \u2013
+        Move Over Law)   "
+      - "C) Acelerar para pasar r\xE1pidamente   "
+      answers: "B) Cambiarse a otro carril, si es seguro (Ley de Moverse a un Lado
+        \u2013 Move Over Law)   "
+      correctAnswerIndex: 1
+    - questions: "\xBFQu\xE9 significa una luz amarilla fija en un sem\xE1foro?   "
+      emogis: []
+      options:
+      - "A) Prep\xE1rese para detenerse, la luz est\xE1 por cambiar a rojo   "
+      - "B) Acelere para cruzar la intersecci\xF3n   "
+      - "C) Det\xE9ngase y permanezca en su lugar   "
+      answers: "A) Prep\xE1rese para detenerse, la luz est\xE1 por cambiar a rojo   "
+      correctAnswerIndex: 0
+    - questions: 'Conducir sin registro vehicular vigente es:   '
+      emogis: []
+      options:
+      - "A) Permitido por 30 d\xEDas   "
+      - "B) Ilegal y sujeto a infracci\xF3n   "
+      - 'C) Permitido si tiene seguro   '
+      answers: "B) Ilegal y sujeto a infracci\xF3n   "
+      correctAnswerIndex: 1
+    - questions: "Un ni\xF1o menor de 4 a\xF1os debe estar asegurado en:   "
+      emogis: []
+      options:
+      - "A) Un cintur\xF3n de regazo   "
+      - 'B) Un asiento de seguridad infantil adecuado   '
+      - 'C) Un asiento elevador   '
+      answers: 'B) Un asiento de seguridad infantil adecuado   '
+      correctAnswerIndex: 1
+    - questions: 'En una carretera mojada, usted debe:   '
+      emogis: []
+      options:
+      - 'A) Mantener la distancia de seguimiento normal   '
+      - "B) Conducir m\xE1s r\xE1pido para evitar el acuaplaneo   "
+      - 'C) Aumentar su distancia de seguimiento   '
+      answers: 'C) Aumentar su distancia de seguimiento   '
+      correctAnswerIndex: 2
+    - questions: "Al estacionarse en subida en una calle de doble sentido sin banqueta,
+        \xBFhacia d\xF3nde deben apuntar las ruedas delanteras?"
+      emogis: []
+      options:
+      - 'A) Rectas   '
+      - 'B) Hacia el centro de la calle   '
+      - 'C) Hacia el lado de la calle   '
+      answers: 'C) Hacia el lado de la calle   '
+      correctAnswerIndex: 2

@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: English_Cal_Test2
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: English_Cal_Test2
+    quesAnswers:
+    - questions: 'What does a yellow diamond sign with a curved arrow and a posted
+        speed limit mean? '
+      emogis: []
+      options:
+      - A) Slippery when wet zone
+      - B) Advisory speed for upcoming curve
+      - C) Mandatory speed for turns only
+      answers: B) Advisory speed for upcoming curve
+      correctAnswerIndex: 1
+    - questions: 'What is the maximum speed limit on most California highways unless
+        posted otherwise? '
+      emogis: []
+      options:
+      - 'A) 55 mph  '
+      - B) 65 mph
+      - C) 70 mph
+      answers: B) 65 mph
+      correctAnswerIndex: 0
+    - questions: At a T-intersection without signs, who has the right-of-way?
+      emogis: []
+      options:
+      - A) The vehicle on the terminating road
+      - B) The vehicle on the through road
+      - 'C) The larger vehicle  '
+      answers: B) The vehicle on the through road
+      correctAnswerIndex: 1
+    - questions: Which of the following is true about alcohol and driving?
+      emogis: []
+      options:
+      - A) Coffee will quickly sober you up
+      - 'B) It''s safe to drive after one drink '
+      - C) Alcohol slows your reaction time and impairs judgment
+      answers: C) Alcohol slows your reaction time and impairs judgment
+      correctAnswerIndex: 2
+    - questions: What must you do when a school bus flashes red lights and extends
+        its stop sign arm?
+      emogis: []
+      options:
+      - 'A) Proceed with caution '
+      - B) Stop until lights stop flashing
+      - 'C) Slow down and pass on the left '
+      answers: B) Stop until lights stop flashing
+      correctAnswerIndex: 1
+    - questions: 'You may park alongside a white curb only to:'
+      emogis: []
+      options:
+      - 'A) Load or unload passengers '
+      - B) Load freight or packages
+      - C) Stop for any reason
+      answers: 'A) Load or unload passengers '
+      correctAnswerIndex: 0
+    - questions: 'When merging onto the freeway, you should: '
+      emogis: []
+      options:
+      - 'A) Stop before entering '
+      - B) Drive slowly and signa
+      - C) Accelerate to match traffic spee
+      answers: C) Accelerate to match traffic spee
+      correctAnswerIndex: 2
+    - questions: 'When making a left turn from a one-way street onto another one-way
+        street, you should:'
+      emogis: []
+      options:
+      - 'A) Turn into any available lane '
+      - 'B) Turn into the leftmost lane '
+      - 'C) Turn into the rightmost lane '
+      answers: 'B) Turn into the leftmost lane '
+      correctAnswerIndex: 1
+    - questions: 'If your accelerator sticks while driving, what should you do first? '
+      emogis: []
+      options:
+      - 'A) Turn off the ignition immediately  '
+      - 'B) Shift to neutral '
+      - 'C) Pull the parking brake  '
+      answers: 'B) Shift to neutral '
+      correctAnswerIndex: 1
+    - questions: 'When must you turn on your headlights?  '
+      emogis: []
+      options:
+      - 'A) Only when you feel it''s necessary '
+      - 'B) 30 minutes before sunset to 30 minutes after sunrise '
+      - 'C) When visibility is over 1,000 feet '
+      answers: 'B) 30 minutes before sunset to 30 minutes after sunrise '
+      correctAnswerIndex: 1
+    - questions: 'A pedestrian is crossing the street at a marked crosswalk but no
+        signals are present. You should:'
+      emogis: []
+      options:
+      - 'A) Honk once to alert them '
+      - 'B) Slow down and proceed  '
+      - 'C) Stop and yield the right-of-way  '
+      answers: 'C) Stop and yield the right-of-way  '
+      correctAnswerIndex: 2
+    - questions: 'Tailgating or weaving in traffic is considered: '
+      emogis: []
+      options:
+      - 'A) Defensive driving '
+      - 'B) Distracted driving '
+      - C) Aggressive driving
+      answers: C) Aggressive driving
+      correctAnswerIndex: 3
+    - questions: 'Two solid yellow lines mean: '
+      emogis: []
+      options:
+      - A) Passing is allowed from either side
+      - 'B) No passing in either direction '
+      - C) Passing allowed during daytime only
+      answers: 'B) No passing in either direction '
+      correctAnswerIndex: 1
+    - questions: 'Bicyclists:  '
+      emogis: []
+      options:
+      - 'A) Must follow the same traffic laws as cars '
+      - 'B) May ignore stop signs  '
+      - 'C) Must yield to all motor vehicles '
+      answers: 'A) Must follow the same traffic laws as cars '
+      correctAnswerIndex: 0
+    - questions: 'Driving with underinflated tires can: '
+      emogis: []
+      options:
+      - 'A) Improve fuel efficiency '
+      - 'B) Cause tire failure and poor handling  '
+      - 'C) Extend tire lifespan  '
+      answers: 'B) Cause tire failure and poor handling  '
+      correctAnswerIndex: 1
+    - questions: 'In construction areas with workers present, fines for traffic violations
+        are:'
+      emogis: []
+      options:
+      - 'A) Doubled  '
+      - 'B) Reduced  '
+      - C) Suspended
+      answers: 'A) Doubled  '
+      correctAnswerIndex: 0
+    - questions: 'When backing out of a parking space, you should:  '
+      emogis: []
+      options:
+      - 'A) Rely only on mirrors  '
+      - B) Look over your right shoulder
+      - 'C) Keep your foot off the brake '
+      answers: B) Look over your right shoulder
+      correctAnswerIndex: 1
+    - questions: 'When driving downhill, you should:'
+      emogis: []
+      options:
+      - A) Use brakes continuously
+      - 'B) Shift to a lower gear '
+      - 'C) Turn off the engine '
+      answers: 'B) Shift to a lower gear '
+      correctAnswerIndex: 1
+    - questions: 'When turning left at a green light without a green arrow, you must:  '
+      emogis: []
+      options:
+      - 'A) Proceed quickly before opposing traffic arrives  '
+      - 'B) Yield to oncoming traffic  '
+      - 'C) Turn into the right lane  '
+      answers: 'B) Yield to oncoming traffic  '
+      correctAnswerIndex: 1
+    - questions: 'A flashing yellow arrow means: '
+      emogis: []
+      options:
+      - 'A) Yield and proceed with caution '
+      - 'B) Stop completely '
+      - 'C) Turn only with green light '
+      answers: 'A) Yield and proceed with caution '
+      correctAnswerIndex: 0
+    - questions: When should you increase your following distance beyond the standard
+        3-second rule?
+      emogis: []
+      options:
+      - A) When driving below the speed limit
+      - 'B) In ideal weather '
+      - C) In rain, fog, or heavy traffic
+      answers: C) In rain, fog, or heavy traffic
+      correctAnswerIndex: 2
+    - questions: 'Driving without a valid license may result in:'
+      emogis: []
+      options:
+      - A) No consequence if insured
+      - 'B) A citation and possible vehicle impound '
+      - C) A warning only
+      answers: 'B) A citation and possible vehicle impound '
+      correctAnswerIndex: 1
+    - questions: 'To reduce glare from oncoming vehicles at night, you should:'
+      emogis: []
+      options:
+      - A) Look directly into their headlights
+      - 'B) Flash your high beams  '
+      - 'C) Look to the right edge of your lane '
+      answers: 'C) Look to the right edge of your lane '
+      correctAnswerIndex: 2
+    - questions: 'If another driver is exhibiting signs of road rage, the safest
+        response is to:'
+      emogis: []
+      options:
+      - A) Yell back
+      - B) Ignore and avoid eye contact
+      - 'C) Race ahead '
+      answers: B) Ignore and avoid eye contact
+      correctAnswerIndex: 1
+    - questions: 'You must use your horn:  '
+      emogis: []
+      options:
+      - A) To alert others of danger
+      - B) To express impatience
+      - 'C) Whenever passing '
+      answers: A) To alert others of danger
+      correctAnswerIndex: 0
+    - questions: On a two-lane road, when is passing on the right permitted?
+      emogis: []
+      options:
+      - A) Only in school zones
+      - B) When the car ahead is turning left
+      - 'C) When there is a double yellow line '
+      answers: B) When the car ahead is turning left
+      correctAnswerIndex: 1
+    - questions: 'To reduce the risk of hydroplaning, you should:'
+      emogis: []
+      options:
+      - A) Drive at high speeds on wet roads
+      - B) Maintain inflated tires and reduce speed in rain
+      - C) Turn sharply while braking
+      answers: B) Maintain inflated tires and reduce speed in rain
+      correctAnswerIndex: 1
+    - questions: "How can you test if you\u2019re following too closely?"
+      emogis: []
+      options:
+      - A) Use the three-second rule
+      - 'B) Honk regularly '
+      - C) Keep a fixed 10-foot gap
+      answers: A) Use the three-second rule
+      correctAnswerIndex: 0
+    - questions: 'If your turn signals are not working, how should you indicate a
+        right turn? '
+      emogis: []
+      options:
+      - 'A) Extend your left arm upward '
+      - B) Flash your headlights
+      - C) Extend your right arm straight out
+      answers: 'A) Extend your left arm upward '
+      correctAnswerIndex: 0
+    - questions: 'Seat belts should be worn:  '
+      emogis: []
+      options:
+      - 'A) Only on highways  '
+      - 'B) In front seats only '
+      - 'C) At all times by all occupants  '
+      answers: 'C) At all times by all occupants  '
+      correctAnswerIndex: 2

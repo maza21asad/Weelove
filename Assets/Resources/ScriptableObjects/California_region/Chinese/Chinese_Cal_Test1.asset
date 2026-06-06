@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: Chinese_Cal_Test1
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: Chinese_Cal_Test1
+    quesAnswers:
+    - questions: "\u9EC4\u8272\u83F1\u5F62\u6807\u5FD7\u4E0A\u6709\u9E7F\u7684\u56FE\u6848\u8868\u793A\u4EC0\u4E48\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u9644\u8FD1\u6709\u91CE\u751F\u52A8\u7269\u4FDD\u62A4\u533A   "
+      - "B) \u524D\u65B9\u4E3A\u52A8\u7269\u7A7F\u8D8A\u533A\u57DF   "
+      - "C) \u7981\u6B62\u72E9\u730E   "
+      answers: "B) \u524D\u65B9\u4E3A\u52A8\u7269\u7A7F\u8D8A\u533A\u57DF   "
+      correctAnswerIndex: 1
+    - questions: "\u5728\u6CA1\u6709\u4EA4\u901A\u7BA1\u63A7\u7684\u56DB\u8DEF\u4EA4\u53C9\u53E3\uFF0C\u8C01\u5148\u901A\u884C\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u5DE6\u4FA7\u7684\u8F66\u8F86   "
+      - "B) \u53F3\u4FA7\u7684\u8F66\u8F86   "
+      - "C) \u4F53\u79EF\u8F83\u5927\u7684\u8F66\u8F86   "
+      answers: "B) \u53F3\u4FA7\u7684\u8F66\u8F86   "
+      correctAnswerIndex: 1
+    - questions: "\u9664\u975E\u53E6\u6709\u6807\u793A\uFF0C\u5C45\u6C11\u533A\u7684\u9ED8\u8BA4\u9650\u901F\u662F\u591A\u5C11\uFF1F   "
+      emogis: []
+      options:
+      - "A) 25\u82F1\u91CC/\u5C0F\u65F6\uFF08\u7EA640\u516C\u91CC/\u5C0F\u65F6\uFF09   "
+      - "B) 35\u82F1\u91CC/\u5C0F\u65F6\uFF08\u7EA656\u516C\u91CC/\u5C0F\u65F6\uFF09   "
+      - "C) 20\u82F1\u91CC/\u5C0F\u65F6\uFF08\u7EA632\u516C\u91CC/\u5C0F\u65F6\uFF09   "
+      answers: "A) 25\u82F1\u91CC/\u5C0F\u65F6\uFF08\u7EA640\u516C\u91CC/\u5C0F\u65F6\uFF09   "
+      correctAnswerIndex: 0
+    - questions: "\u6210\u5E74\u9A7E\u9A76\u5458\uFF0821\u5C81\u53CA\u4EE5\u4E0A\uFF09\u7684\u6CD5\u5B9A\u8840\u6DB2\u9152\u7CBE\u6D53\u5EA6\uFF08BAC\uFF09\u4E0A\u9650\u662F\u591A\u5C11\uFF1F   "
+      emogis: []
+      options:
+      - 'A) 0.05%   '
+      - 'B) 0.08%   '
+      - 'C) 0.10%   '
+      answers: 'B) 0.08%   '
+      correctAnswerIndex: 1
+    - questions: "\u7EA2\u8272\u8DEF\u7F18\u7EBF\u8868\u793A\u4EC0\u4E48\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u4E58\u5BA2\u4E0A\u4E0B\u8F66\u533A   "
+      - "B) \u4EC5\u9650\u7D27\u6025\u505C\u8F66   "
+      - "C) \u4EFB\u4F55\u65F6\u95F4\u7981\u6B62\u505C\u8F66\u3001\u4E34\u65F6\u505C\u9760\u6216\u7B49\u5F85   "
+      answers: "C) \u4EFB\u4F55\u65F6\u95F4\u7981\u6B62\u505C\u8F66\u3001\u4E34\u65F6\u505C\u9760\u6216\u7B49\u5F85   "
+      correctAnswerIndex: 2
+    - questions: "\u5982\u679C\u4EA4\u901A\u4FE1\u53F7\u706F\u6545\u969C\u4E14\u65E0\u4EFB\u4F55\u4FE1\u53F7\u663E\u793A\uFF0C\u5E94\u5982\u4F55\u505A\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u6309\u7167\u56DB\u8DEF\u505C\u8F66\u4EA4\u89C4\u901A\u884C   "
+      - "B) \u5C0F\u5FC3\u9A7E\u9A76\u7EE7\u7EED\u524D\u884C   "
+      - "C) \u62A5\u8B66\u5E76\u7B49\u5F85   "
+      answers: "A) \u6309\u7167\u56DB\u8DEF\u505C\u8F66\u4EA4\u89C4\u901A\u884C   "
+      correctAnswerIndex: 0
+    - questions: "\u5F53\u6709\u8F66\u8F86\u7D27\u8DDF\uFF08\u5C3E\u968F\uFF09\u4F60\u65F6\uFF0C\u4F60\u5E94\u8BE5\u600E\u4E48\u505A\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u52A0\u901F\u62C9\u5F00\u8DDD\u79BB   "
+      - "B) \u7A81\u7136\u5239\u8F66   "
+      - "C) \u53D8\u9053\u6216\u589E\u52A0\u4E0E\u524D\u8F66\u7684\u8DDF\u8F66\u8DDD\u79BB   "
+      answers: "C) \u53D8\u9053\u6216\u589E\u52A0\u4E0E\u524D\u8F66\u7684\u8DDF\u8F66\u8DDD\u79BB   "
+      correctAnswerIndex: 2
+    - questions: "\u5F53\u6709\u95EA\u70C1\u8B66\u706F\u7684\u7D27\u6025\u8F66\u8F86\u9760\u8FD1\u65F6\uFF0C\u4F60\u5FC5\u987B\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u4FDD\u6301\u901F\u5EA6\u548C\u65B9\u5411   "
+      - "B) \u9760\u53F3\u505C\u8F66   "
+      - "C) \u7ACB\u5373\u9A76\u79BB\u9053\u8DEF   "
+      answers: "B) \u9760\u53F3\u505C\u8F66   "
+      correctAnswerIndex: 1
+    - questions: "\u786E\u4FDD16\u5C81\u4EE5\u4E0B\u4E58\u5BA2\u7CFB\u597D\u5B89\u5168\u5E26\u7684\u8D23\u4EFB\u4EBA\u662F\u8C01\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u513F\u7AE5\u672C\u4EBA   "
+      - "B) \u524D\u6392\u4E58\u5BA2   "
+      - "C) \u9A7E\u9A76\u5458   "
+      answers: "C) \u9A7E\u9A76\u5458   "
+      correctAnswerIndex: 2
+    - questions: "\u8FDB\u5165\u73AF\u5F62\u4EA4\u53C9\u53E3\u65F6\uFF0C\u4F60\u5FC5\u987B\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u793C\u8BA9\u5DF2\u5728\u73AF\u5C9B\u5185\u7684\u8F66\u8F86   "
+      - "B) \u5B8C\u5168\u505C\u8F66\u540E\u518D\u8FDB\u5165   "
+      - "C) \u6309\u5587\u53ED\u63D0\u9192\u4ED6\u4EBA   "
+      answers: "A) \u793C\u8BA9\u5DF2\u5728\u73AF\u5C9B\u5185\u7684\u8F66\u8F86   "
+      correctAnswerIndex: 0
+    - questions: "\u5728\u591A\u8F66\u9053\u9053\u8DEF\u53D8\u9053\u65F6\uFF0C\u4F60\u5E94\u8BE5\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u6309\u5587\u53ED\u5E76\u8FC5\u901F\u8F6C\u5411   "
+      - "B) \u53D8\u9053\u524D\u68C0\u67E5\u540E\u89C6\u955C\u548C\u76F2\u533A\u5E76\u6253\u8F6C\u5411\u706F   "
+      - "C) \u53EA\u770B\u540E\u89C6\u955C   "
+      answers: "B) \u53D8\u9053\u524D\u68C0\u67E5\u540E\u89C6\u955C\u548C\u76F2\u533A\u5E76\u6253\u8F6C\u5411\u706F   "
+      correctAnswerIndex: 1
+    - questions: "\u5728\u6D53\u96FE\u4E2D\u9A7E\u9A76\u65F6\u5E94\u5982\u4F55\u505A\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u4F7F\u7528\u8FDC\u5149\u706F   "
+      - "B) \u4F7F\u7528\u8FD1\u5149\u706F\u6216\u96FE\u706F   "
+      - "C) \u5173\u95ED\u8F66\u706F\u5E76\u8DDF\u968F\u524D\u8F66\u5C3E\u706F   "
+      answers: "B) \u4F7F\u7528\u8FD1\u5149\u706F\u6216\u96FE\u706F   "
+      correctAnswerIndex: 1
+    - questions: "\u6709\u513F\u7AE5\u5728\u573A\u65F6\uFF0C\u5B66\u6821\u533A\u57DF\u7684\u9650\u901F\u662F\u591A\u5C11\uFF1F   "
+      emogis: []
+      options:
+      - "A) 20\u82F1\u91CC/\u5C0F\u65F6\uFF08\u7EA632\u516C\u91CC/\u5C0F\u65F6\uFF09   "
+      - "B) 25\u82F1\u91CC/\u5C0F\u65F6\uFF08\u7EA640\u516C\u91CC/\u5C0F\u65F6\uFF09   "
+      - "C) 15\u82F1\u91CC/\u5C0F\u65F6\uFF08\u7EA624\u516C\u91CC/\u5C0F\u65F6\uFF09   "
+      answers: "C) 15\u82F1\u91CC/\u5C0F\u65F6\uFF08\u7EA624\u516C\u91CC/\u5C0F\u65F6\uFF09   "
+      correctAnswerIndex: 2
+    - questions: "\u884C\u9A76\u4E2D\u5239\u8F66\u5931\u7075\u65F6\uFF0C\u4F60\u9996\u5148\u5E94\u8BE5\u5C1D\u8BD5\u4EC0\u4E48\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u6302\u5012\u6863   "
+      - "B) \u8FDE\u7EED\u8E29\u5239\u8F66\u8E0F\u677F   "
+      - "C) \u7ACB\u5373\u7184\u706B   "
+      answers: "B) \u8FDE\u7EED\u8E29\u5239\u8F66\u8E0F\u677F   "
+      correctAnswerIndex: 1
+    - questions: "\u8F6C\u5F2F\u6216\u53D8\u9053\u524D\u5E94\u63D0\u524D\u591A\u4E45\u6253\u8F6C\u5411\u706F\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u81F3\u5C11\u63D0\u524D5\u79D2   "
+      - "B) \u53EA\u5728\u6709\u5176\u4ED6\u8F66\u8F86\u65F6   "
+      - "C) \u8F6C\u52A8\u65B9\u5411\u76D8\u65F6\u518D\u6253   "
+      answers: "A) \u81F3\u5C11\u63D0\u524D5\u79D2   "
+      correctAnswerIndex: 0
+    - questions: "\u9047\u5230\u95EA\u70C1\u7EA2\u706F\u7684\u8DEF\u53E3\uFF0C\u4F60\u5E94\u5982\u4F55\u505A\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u5C0F\u5FC3\u901A\u8FC7   "
+      - "B) \u6309\u505C\u8F66\u6807\u5FD7\u5904\u7406\uFF0C\u5B8C\u5168\u505C\u8F66   "
+      - "C) \u62A2\u5148\u901A\u8FC7   "
+      answers: "B) \u6309\u505C\u8F66\u6807\u5FD7\u5904\u7406\uFF0C\u5B8C\u5168\u505C\u8F66   "
+      correctAnswerIndex: 0
+    - questions: "\u8D85\u8D8A\u8DEF\u4E0A\u7684\u81EA\u884C\u8F66\u9A91\u884C\u8005\u65F6\uFF0C\u6700\u5C11\u5E94\u7559\u6709\u591A\u5C11\u7A7A\u95F4\uFF1F   "
+      emogis: []
+      options:
+      - "A) 1\u82F1\u5C3A\uFF08\u7EA60.3\u7C73\uFF09   "
+      - "B) 3\u82F1\u5C3A\uFF08\u7EA60.9\u7C73\uFF09   "
+      - "C) 5\u82F1\u5C3A\uFF08\u7EA61.5\u7C73\uFF09   "
+      answers: "B) 3\u82F1\u5C3A\uFF08\u7EA60.9\u7C73\uFF09   "
+      correctAnswerIndex: 1
+    - questions: "\u6253\u6ED1\u7684\u4E3B\u8981\u539F\u56E0\u662F\u4EC0\u4E48\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u7A81\u7136\u52A0\u901F   "
+      - "B) \u8F66\u901F\u8FC7\u5FEB\uFF0C\u4E0D\u9002\u5E94\u8DEF\u51B5   "
+      - "C) \u5728\u4E0B\u5761\u65F6\u4F7F\u7528\u4F4E\u6863   "
+      answers: "B) \u8F66\u901F\u8FC7\u5FEB\uFF0C\u4E0D\u9002\u5E94\u8DEF\u51B5   "
+      correctAnswerIndex: 0
+    - questions: "\u5728\u65E0\u6807\u5FD7\u7684\u4EBA\u884C\u6A2A\u9053\u5904\uFF0C\u9A7E\u9A76\u5458\u5E94\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u53EA\u5728\u884C\u4EBA\u5DF2\u5F00\u59CB\u8FC7\u9A6C\u8DEF\u65F6\u505C\u8F66   "
+      - "B) \u51CF\u901F\u4F46\u4E0D\u505C   "
+      - "C) \u793C\u8BA9\u884C\u4EBA\u4F18\u5148\u901A\u884C   "
+      answers: "C) \u793C\u8BA9\u884C\u4EBA\u4F18\u5148\u901A\u884C   "
+      correctAnswerIndex: 2
+    - questions: "\u505C\u8F66\u8DDD\u79BB\u6D88\u9632\u6813\u6700\u5C11\u5E94\u6709\u591A\u8FDC\uFF1F   "
+      emogis: []
+      options:
+      - "A) 15\u82F1\u5C3A\uFF08\u7EA64.5\u7C73\uFF09\u6216\u4EE5\u4E0A   "
+      - "B) 10\u82F1\u5C3A\uFF08\u7EA63\u7C73\uFF09   "
+      - "C) 5\u82F1\u5C3A\uFF08\u7EA61.5\u7C73\uFF09   "
+      answers: "A) 15\u82F1\u5C3A\uFF08\u7EA64.5\u7C73\uFF09\u6216\u4EE5\u4E0A   "
+      correctAnswerIndex: 0
+    - questions: "\u5728\u9AD8\u901F\u516C\u8DEF\u9519\u8FC7\u51FA\u53E3\u65F6\uFF0C\u4F60\u5E94\u8BE5\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u5C0F\u5FC3\u5012\u8F66   "
+      - "B) \u5F00\u5230\u4E0B\u4E00\u4E2A\u51FA\u53E3   "
+      - "C) \u6389\u5934   "
+      answers: "B) \u5F00\u5230\u4E0B\u4E00\u4E2A\u51FA\u53E3   "
+      correctAnswerIndex: 1
+    - questions: "\u907F\u514D\u75B2\u52B3\u9A7E\u9A76\u7684\u6700\u4F73\u65B9\u6CD5\u662F\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u6BCF\u5C0F\u65F6\u559D\u4E00\u676F\u5496\u5561   "
+      - "B) \u6253\u5F00\u8F66\u7A97   "
+      - "C) \u9A7E\u9A76\u524D\u4FDD\u8BC1\u5145\u8DB3\u7761\u7720   "
+      answers: "C) \u9A7E\u9A76\u524D\u4FDD\u8BC1\u5145\u8DB3\u7761\u7720   "
+      correctAnswerIndex: 2
+    - questions: "\u5728\u5C45\u6C11\u533A\u4EC0\u4E48\u65F6\u5019\u5141\u8BB8\u6389\u5934\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u4EFB\u4F55\u65F6\u5019   "
+      - "B) \u4EC5\u5F53200\u82F1\u5C3A\uFF08\u7EA661\u7C73\uFF09\u8303\u56F4\u5185\u6CA1\u6709\u6765\u8F66\u65F6   "
+      - "C) \u4EC5\u5728\u6709\u4FE1\u53F7\u706F\u7684\u8DEF\u53E3   "
+      answers: "B) \u4EC5\u5F53200\u82F1\u5C3A\uFF08\u7EA661\u7C73\uFF09\u8303\u56F4\u5185\u6CA1\u6709\u6765\u8F66\u65F6   "
+      correctAnswerIndex: 1
+    - questions: "\u8DEF\u9762\u6E7F\u6ED1\u65F6\uFF0C\u6700\u6ED1\u7684\u65F6\u5019\u901A\u5E38\u662F\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u8FDE\u7EED\u4E0B\u96E8\u6570\u5C0F\u65F6\u540E   "
+      - "B) \u521A\u5F00\u59CB\u4E0B\u96E8\u65F6   "
+      - "C) \u66B4\u96E8\u671F\u95F4   "
+      answers: "B) \u521A\u5F00\u59CB\u4E0B\u96E8\u65F6   "
+      correctAnswerIndex: 1
+    - questions: "2\u5C81\u4EE5\u4E0B\u513F\u7AE5\u5FC5\u987B\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u4F7F\u7528\u524D\u5411\u5F0F\u513F\u7AE5\u5B89\u5168\u5EA7\u6905   "
+      - "B) \u4F7F\u7528\u540E\u5411\u5F0F\u513F\u7AE5\u5B89\u5168\u5EA7\u6905   "
+      - "C) \u4F7F\u7528\u589E\u9AD8\u5EA7\u6905   "
+      answers: "B) \u4F7F\u7528\u540E\u5411\u5F0F\u513F\u7AE5\u5B89\u5168\u5EA7\u6905   "
+      correctAnswerIndex: 1
+    - questions: "\u7D27\u8DDF\u524D\u8F66\uFF08\u8DDF\u8F66\u8FC7\u8FD1\uFF09\u5C5E\u4E8E\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u57CE\u5E02\u4EA4\u901A\u4E2D\u53EF\u4EE5\u63A5\u53D7   "
+      - "B) \u88AB\u79F0\u4E3A\u201C\u5C3E\u968F\u201D\uFF0C\u5C5E\u4E8E\u8FDD\u6CD5\u884C\u4E3A   "
+      - "C) \u65F6\u901F\u4F4E\u4E8E25\u82F1\u91CC/\u5C0F\u65F6\u53EF\u4EE5   "
+      answers: "B) \u88AB\u79F0\u4E3A\u201C\u5C3E\u968F\u201D\uFF0C\u5C5E\u4E8E\u8FDD\u6CD5\u884C\u4E3A   "
+      correctAnswerIndex: 1
+    - questions: "\u4F55\u65F6\u5E94\u4F7F\u7528\u5587\u53ED\uFF1F   "
+      emogis: []
+      options:
+      - "A) \u8B66\u793A\u4ED6\u4EBA\u6709\u5371\u9669   "
+      - "B) \u8868\u8FBE\u4E0D\u6EE1   "
+      - "C) \u5728\u7EA2\u7EFF\u706F\u524D\u50AC\u4FC3\u4ED6\u4EBA   "
+      answers: "A) \u8B66\u793A\u4ED6\u4EBA\u6709\u5371\u9669   "
+      correctAnswerIndex: 0
+    - questions: "\u5DE6\u8F6C\u8FDB\u5165\u5355\u884C\u9053\u65F6\uFF0C\u5E94\u8F6C\u5165\uFF1A   "
+      emogis: []
+      options:
+      - "A) \u4EFB\u610F\u53EF\u7528\u8F66\u9053   "
+      - "B) \u6700\u9760\u8FD1\u5DE6\u4FA7\u8DEF\u7F18\u7684\u8F66\u9053   "
+      - "C) \u6700\u53F3\u4FA7\u8F66\u9053   "
+      answers: "B) \u6700\u9760\u8FD1\u5DE6\u4FA7\u8DEF\u7F18\u7684\u8F66\u9053   "
+      correctAnswerIndex: 1
+    - questions: "\u5728\u8DEF\u53E3\u524D\u8F66\u9053\u4E0A\u753B\u6709\u767D\u8272\u6A2A\u7EBF\u8868\u793A\uFF1A "
+      emogis: []
+      options:
+      - "A) \u7981\u6B62\u505C\u8F66 "
+      - "B) \u524D\u65B9\u8F66\u9053\u7EC8\u6B62 "
+      - "C) \u8F66\u8F86\u505C\u8F66\u7EBF "
+      answers: "C) \u8F66\u8F86\u505C\u8F66\u7EBF "
+      correctAnswerIndex: 2
+    - questions: "\u4EC0\u4E48\u60C5\u51B5\u4F1A\u589E\u52A0\u53D1\u751F\u6C34\u6ED1\u73B0\u8C61\uFF08hydroplaning\uFF09\u7684\u98CE\u9669\uFF1F "
+      emogis: []
+      options:
+      - "A) \u5728\u5E72\u71E5\u7684\u6CA5\u9752\u8DEF\u9762\u884C\u9A76 "
+      - "B) \u4F4E\u901F\u884C\u9A76 "
+      - "C) \u5728\u6E7F\u6ED1\u8DEF\u9762\u9AD8\u901F\u884C\u9A76 "
+      answers: "C) \u5728\u6E7F\u6ED1\u8DEF\u9762\u9AD8\u901F\u884C\u9A76 "
+      correctAnswerIndex: 2

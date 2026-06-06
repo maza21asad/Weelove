@@ -1,0 +1,262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: English_Cal_Test3
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: English_Cal_Test3
+    quesAnswers:
+    - questions: 'What does a white rectangular sign that reads "Do Not Pass" indicate? '
+      emogis: []
+      options:
+      - A) Passing is allowed only during daylight
+      - B) You must not pass other vehicles
+      - C) Slower traffic keep right
+      answers: B) You must not pass other vehicles
+      correctAnswerIndex: 1
+    - questions: What is the posted speed limit in alleys in California unless otherwise
+        indicated?
+      emogis: []
+      options:
+      - 'A) 25 mph '
+      - 'B) 10 mph '
+      - 'C) 15 mph '
+      answers: 'C) 15 mph '
+      correctAnswerIndex: 2
+    - questions: You approach a crosswalk with a pedestrian waiting to cross. What
+        must you do?
+      emogis: []
+      options:
+      - 'A) Slow down and wave them across  '
+      - B) Stop and yield the right-of-way
+      - 'C) Proceed if no other vehicles are around '
+      answers: B) Stop and yield the right-of-way
+      correctAnswerIndex: 1
+    - questions: Which of the following statements is true?
+      emogis: []
+      options:
+      - 'A) You may drive safely after a small amount of alcohol '
+      - 'B) Alcohol affects judgment before coordination '
+      - 'C) Breath fresheners reduce blood alcohol level '
+      answers: 'B) Alcohol affects judgment before coordination '
+      correctAnswerIndex: 2
+    - questions: 'A center left-turn lane is used:'
+      emogis: []
+      options:
+      - A) For passing
+      - 'B) For making left turns or U-turns when permitted '
+      - 'C) As a merging lane '
+      answers: 'B) For making left turns or U-turns when permitted '
+      correctAnswerIndex: 1
+    - questions: 'If you see an emergency vehicle stopped ahead with flashing lights,
+        you must: '
+      emogis: []
+      options:
+      - 'A) Stop in your lane '
+      - 'B) Move into another lane, if safe (Move Over Law) '
+      - C) Speed up to pass quickly
+      answers: 'B) Move into another lane, if safe (Move Over Law) '
+      correctAnswerIndex: 1
+    - questions: What does a solid yellow traffic light mean?
+      emogis: []
+      options:
+      - A) Prepare to stop, the light is about to turn red
+      - 'B) Go faster to clear the intersection '
+      - 'C) Stop and remain in place '
+      answers: A) Prepare to stop, the light is about to turn red
+      correctAnswerIndex: 0
+    - questions: 'Driving without current vehicle registration is:  '
+      emogis: []
+      options:
+      - 'A) Permitted for 30 days  '
+      - 'B) Illegal and subject to citation '
+      - 'C) Allowed if insured  '
+      answers: 'B) Illegal and subject to citation '
+      correctAnswerIndex: 1
+    - questions: 'A child under 4 years old must be secured in:'
+      emogis: []
+      options:
+      - 'A) A lap belt  '
+      - B) An appropriate child safety seat
+      - 'C) A booster seat '
+      answers: B) An appropriate child safety seat
+      correctAnswerIndex: 1
+    - questions: 'On a wet road, you should: '
+      emogis: []
+      options:
+      - 'A) Maintain normal following distance '
+      - 'B) Drive faster to avoid hydroplaning '
+      - C) Increase your following distance
+      answers: C) Increase your following distance
+      correctAnswerIndex: 2
+    - questions: When parking uphill on a two-way street with no curb, which way
+        should your front wheels face?
+      emogis: []
+      options:
+      - 'A) Straight  '
+      - B) Toward the center of the road
+      - 'C) Toward the side of the road '
+      answers: 'C) Toward the side of the road '
+      correctAnswerIndex: 2
+    - questions: 'What is a blind spot? '
+      emogis: []
+      options:
+      - A) An area not covered by your mirrors
+      - B) An area next to the center divider
+      - C) Your rear-view mirro
+      answers: A) An area not covered by your mirrors
+      correctAnswerIndex: 0
+    - questions: When should you dim your high beams at night?
+      emogis: []
+      options:
+      - A) When driving under 45 mph
+      - B) When approaching or following another vehicle within 500 feet
+      - C) On empty freeways only
+      answers: B) When approaching or following another vehicle within 500 feet
+      correctAnswerIndex: 1
+    - questions: 'When approaching a curve, you should:'
+      emogis: []
+      options:
+      - A) Brake in the middle of the turn
+      - 'B) Speed up for better control   '
+      - 'C) Slow down before entering   '
+      answers: 'C) Slow down before entering   '
+      correctAnswerIndex: 2
+    - questions: 'If your vehicle begins to hydroplane, you should:'
+      emogis: []
+      options:
+      - 'A) Brake hard   '
+      - 'B) Ease off the gas and steer straight   '
+      - 'C) Turn the wheel sharply   '
+      answers: 'B) Ease off the gas and steer straight   '
+      correctAnswerIndex: 1
+    - questions: When must you show proof of insurance?
+      emogis: []
+      options:
+      - 'A) Upon police request   '
+      - 'B) Only during an accident   '
+      - 'C) When entering a parking lot   '
+      answers: 'A) Upon police request   '
+      correctAnswerIndex: 0
+    - questions: 'Which group has the absolute right-of-way at all times?   '
+      emogis: []
+      options:
+      - 'A) Vehicles on the freeway   '
+      - 'B) Pedestrians in crosswalks   '
+      - 'C) Emergency vehicles   '
+      answers: 'B) Pedestrians in crosswalks   '
+      correctAnswerIndex: 1
+    - questions: 'When using a roundabout, you must: '
+      emogis: []
+      options:
+      - 'A) Enter without yielding '
+      - 'B) Signal only when exiting   '
+      - 'C) Yield to traffic already in the roundabout   '
+      answers: 'C) Yield to traffic already in the roundabout   '
+      correctAnswerIndex: 2
+    - questions: "When must your vehicle\u2019s headlights be turned on?   "
+      emogis: []
+      options:
+      - 'A) When visibility is less than 1,000 feet   '
+      - 'B) Between sunrise and sunset   '
+      - 'C) When driving on the freeway   '
+      answers: 'A) When visibility is less than 1,000 feet   '
+      correctAnswerIndex: 0
+    - questions: 'An orange sign typically indicates: '
+      emogis: []
+      options:
+      - 'A) Regulatory instructions   '
+      - 'B) Construction or maintenance area   '
+      - 'C) General warning   '
+      answers: 'B) Construction or maintenance area   '
+      correctAnswerIndex: 1
+    - questions: 'Before making a lane change, you must:   '
+      emogis: []
+      options:
+      - 'A) Look over your shoulder   '
+      - 'B) Increase your speed   '
+      - 'C) Use hazard lights   '
+      answers: 'A) Look over your shoulder   '
+      correctAnswerIndex: 0
+    - questions: 'Failing to appear in court for a traffic ticket may result in:   '
+      emogis: []
+      options:
+      - 'A) Reduced fine   '
+      - 'B) Suspension of your driving privilege   '
+      - 'C) Dismissal of charges   '
+      answers: 'B) Suspension of your driving privilege   '
+      correctAnswerIndex: 1
+    - questions: 'Which of the following is required equipment for every vehicle?   '
+      emogis: []
+      options:
+      - 'A) GPS device   '
+      - 'B) Working horn and turn signals   '
+      - 'C) Spare tire   '
+      answers: 'B) Working horn and turn signals   '
+      correctAnswerIndex: 1
+    - questions: 'U-turns in business districts are:   '
+      emogis: []
+      options:
+      - 'A) Legal at any intersection   '
+      - 'B) Illegal under all circumstances   '
+      - 'C) Legal only at intersections with signals or designated openings   '
+      answers: 'C) Legal only at intersections with signals or designated openings   '
+      correctAnswerIndex: 2
+    - questions: 'Driving in heavy wind conditions requires:   '
+      emogis: []
+      options:
+      - 'A) Windows open   '
+      - 'B) Tight grip on steering and reduced speed   '
+      - 'C) Driving in the center of the lane   '
+      answers: 'B) Tight grip on steering and reduced speed   '
+      correctAnswerIndex: 1
+    - questions: 'You should increase following distance behind a large truck because:   '
+      emogis: []
+      options:
+      - 'A) They drive faster   '
+      - 'B) You need more space to stop   '
+      - "C) You can\u2019t see around them   "
+      answers: "C) You can\u2019t see around them   "
+      correctAnswerIndex: 2
+    - questions: 'When entering a freeway, you should enter:   '
+      emogis: []
+      options:
+      - 'A) At the speed of freeway traffic   '
+      - 'B) Below 35 mph   '
+      - 'C) Without signaling   '
+      answers: 'A) At the speed of freeway traffic   '
+      correctAnswerIndex: 0
+    - questions: 'Stopping in a crosswalk is:   '
+      emogis: []
+      options:
+      - 'A) Allowed during turns   '
+      - "B) Permitted if pedestrians aren\u2019t present   "
+      - 'C) Illegal   '
+      answers: 'C) Illegal   '
+      correctAnswerIndex: 2
+    - questions: 'At an intersection with stop signs on all four corners, you arrive
+        at the same time as a driver on your left. Who goes first?   '
+      emogis: []
+      options:
+      - 'A) You do   '
+      - 'B) The other driver   '
+      - 'C) The car with the higher speed   '
+      answers: 'A) You do   '
+      correctAnswerIndex: 0
+    - questions: 'Which is a safe practice to avoid driving distractions?   '
+      emogis: []
+      options:
+      - 'A) Adjust mirrors while driving   '
+      - 'B) Eat only when stopped   '
+      - 'C) Set GPS before starting the vehicle   '
+      answers: 'C) Set GPS before starting the vehicle   '
+      correctAnswerIndex: 2

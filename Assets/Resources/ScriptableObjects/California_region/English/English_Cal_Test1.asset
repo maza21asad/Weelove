@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8231245e4999eb498c6af83841371fe, type: 3}
+  m_Name: English_Cal_Test1
+  m_EditorClassIdentifier: 
+  tests:
+  - testsName: English_Cal_Test1
+    quesAnswers:
+    - questions: What does a yellow diamond-shaped sign with a deer image indicate?
+      emogis: []
+      options:
+      - A) Wildlife refuge nearby
+      - B) Animal crossing zone ahead
+      - C) No hunting allowed
+      answers: B) Animal crossing zone ahead
+      correctAnswerIndex: 1
+    - questions: At an uncontrolled four-way intersection, who proceeds first?
+      emogis: []
+      options:
+      - A) The vehicle on the left
+      - B) The vehicle on the right
+      - C) The vehicle that is larger
+      answers: B) The vehicle on the right
+      correctAnswerIndex: 1
+    - questions: 'What is the default speed limit in residential areas unless otherwise
+        posted?  '
+      emogis: []
+      options:
+      - A) 25 mph
+      - B) 35 mph
+      - C) 20 mph
+      answers: A) 25 mph
+      correctAnswerIndex: 0
+    - questions: 'What is the legal Blood Alcohol Concentration (BAC) limit for adult
+        drivers (21+)? '
+      emogis: []
+      options:
+      - A) 0.05%
+      - B) 0.08%
+      - C) 0.10%
+      answers: B) 0.08%
+      correctAnswerIndex: 1
+    - questions: What does a red-painted curb mean?
+      emogis: []
+      options:
+      - A) Passenger loading zone
+      - B) Emergency stopping only
+      - C) No stopping, standing, or parking at any time
+      answers: C) No stopping, standing, or parking at any time
+      correctAnswerIndex: 2
+    - questions: If a traffic light is malfunctioning and no signals are displayed,
+        what should you do?
+      emogis: []
+      options:
+      - A) Proceed as if it is a four-way stop
+      - B) Continue driving carefully
+      - C) Call the police and wait
+      answers: A) Proceed as if it is a four-way stop
+      correctAnswerIndex: 0
+    - questions: What should you do when another driver is tailgating you?
+      emogis: []
+      options:
+      - A) Speed up to create distance
+      - B) Brake suddenly
+      - C) Change lanes or increase your following distance
+      answers: C) Change lanes or increase your following distance
+      correctAnswerIndex: 2
+    - questions: 'When an emergency vehicle with flashing lights approaches, you
+        must:'
+      emogis: []
+      options:
+      - A) Maintain speed and direction
+      - 'B) Pull to the right and stop '
+      - C) Immediately turn off the road
+      answers: 'B) Pull to the right and stop '
+      correctAnswerIndex: 1
+    - questions: Who is responsible for ensuring passengers under 16 are wearing
+        seat belts?
+      emogis: []
+      options:
+      - A) The child
+      - 'B) The front passenger '
+      - C) The driver
+      answers: C) The driver
+      correctAnswerIndex: 2
+    - questions: 'When entering a roundabout, you must:'
+      emogis: []
+      options:
+      - A) Yield to vehicles already in the circle
+      - B) Stop completely before entering
+      - C) Honk to alert others
+      answers: A) Yield to vehicles already in the circle
+      correctAnswerIndex: 0
+    - questions: 'When changing lanes on a multi-lane road, you should:'
+      emogis: []
+      options:
+      - A) Honk and steer quickly
+      - B) Check mirrors and blind spots before signaling
+      - C) Rely only on rearview mirror
+      answers: B) Check mirrors and blind spots before signaling
+      correctAnswerIndex: 1
+    - questions: What should you do when driving in thick fog?
+      emogis: []
+      options:
+      - A) Use high-beam headlights
+      - B) Use low-beam headlights or fog lights
+      - C) Turn off lights and follow taillights ahead
+      answers: B) Use low-beam headlights or fog lights
+      correctAnswerIndex: 1
+    - questions: What is the speed limit in a school zone when children are present?
+      emogis: []
+      options:
+      - A) 20 mph
+      - B) 25 mph
+      - C) 15 mph
+      answers: C) 15 mph
+      correctAnswerIndex: 2
+    - questions: If your brakes fail while driving, what is the first thing you should
+        try?
+      emogis: []
+      options:
+      - A) Shift into reverse
+      - B) Pump the brake pedal
+      - 'C) Turn off the engine immediately '
+      answers: B) Pump the brake pedal
+      correctAnswerIndex: 1
+    - questions: When should you signal before turning or changing lanes?
+      emogis: []
+      options:
+      - A) At least 5 seconds before
+      - B) Only when other cars are nearby
+      - 'C) Just as you begin turning the wheel '
+      answers: A) At least 5 seconds before
+      correctAnswerIndex: 0
+    - questions: You approach an intersection with a flashing red light. What does
+        it mean?
+      emogis: []
+      options:
+      - A) Proceed cautiously
+      - B) Treat it as a stop sign
+      - C) Speed through before other cars arrive
+      answers: B) Treat it as a stop sign
+      correctAnswerIndex: 1
+    - questions: 'When passing a bicyclist on the road, you must allow a minimum
+        clearance of:'
+      emogis: []
+      options:
+      - A) 1 foot
+      - B) 3 feet
+      - C) 5 feet
+      answers: B) 3 feet
+      correctAnswerIndex: 1
+    - questions: What is the main cause of skids?
+      emogis: []
+      options:
+      - A) Sudden acceleration
+      - B) Driving too fast for conditions
+      - C) Using low gears on hills
+      answers: B) Driving too fast for conditions
+      correctAnswerIndex: 1
+    - questions: 'At an unmarked crosswalk, drivers must:'
+      emogis: []
+      options:
+      - 'A) Stop only if pedestrians are already crossing '
+      - B) Slow down but not stop
+      - C) Yield the right of way to pedestrians
+      answers: C) Yield the right of way to pedestrians
+      correctAnswerIndex: 2
+    - questions: How far must you park from a fire hydrant?
+      emogis: []
+      options:
+      - A) 15 feet or more
+      - 'B) 10 feet '
+      - 'C) 5 feet '
+      answers: A) 15 feet or more
+      correctAnswerIndex: 0
+    - questions: 'If you miss your exit on the freeway, you should:'
+      emogis: []
+      options:
+      - A) Back up carefully
+      - 'B) Drive to the next exit '
+      - C) Make a U-turn
+      answers: 'B) Drive to the next exit '
+      correctAnswerIndex: 1
+    - questions: 'The best way to avoid drowsy driving is: '
+      emogis: []
+      options:
+      - 'A) Drinking coffee every hour '
+      - B) Opening windows
+      - 'C) Getting adequate sleep before driving  '
+      answers: 'C) Getting adequate sleep before driving  '
+      correctAnswerIndex: 2
+    - questions: 'When is a U-turn legal in residential areas? '
+      emogis: []
+      options:
+      - 'A) Anytime  '
+      - 'B) Only when there are no vehicles approaching within 200 feet '
+      - 'C) Only at intersections with lights '
+      answers: 'B) Only when there are no vehicles approaching within 200 feet '
+      correctAnswerIndex: 1
+    - questions: 'When roads are wet, the most slippery time is usually:  '
+      emogis: []
+      options:
+      - 'A) After it rains for hours '
+      - 'B) Just after it begins to rain '
+      - 'C) During heavy downpour  '
+      answers: 'B) Just after it begins to rain '
+      correctAnswerIndex: 1
+    - questions: 'Children under the age of 2 must be secured in:'
+      emogis: []
+      options:
+      - A) A forward-facing car seat
+      - B) A rear-facing car seat
+      - 'C) A booster seat  '
+      answers: B) A rear-facing car seat
+      correctAnswerIndex: 1
+    - questions: 'Driving too closely behind another vehicle is:'
+      emogis: []
+      options:
+      - 'A) Acceptable in city traffic '
+      - 'B) Known as tailgating and is illegal '
+      - 'C) Permitted if under 25 mph '
+      answers: 'B) Known as tailgating and is illegal '
+      correctAnswerIndex: 1
+    - questions: 'When should you use your horn? '
+      emogis: []
+      options:
+      - A) To alert others of danger
+      - B) To express frustration
+      - 'C) At stoplights to hurry others '
+      answers: A) To alert others of danger
+      correctAnswerIndex: 0
+    - questions: 'When turning left onto a one-way street, you should turn: '
+      emogis: []
+      options:
+      - 'A) Into any available lane '
+      - 'B) Into the lane closest to the left curb '
+      - 'C) Into the far-right lane '
+      answers: 'B) Into the lane closest to the left curb '
+      correctAnswerIndex: 1
+    - questions: 'A white line painted across the lane before an intersection indicates:'
+      emogis: []
+      options:
+      - 'A) No stopping '
+      - B) Lane ends ahead
+      - C) Stop line for vehicles
+      answers: C) Stop line for vehicles
+      correctAnswerIndex: 2
+    - questions: 'What increases the risk of hydroplaning? '
+      emogis: []
+      options:
+      - 'A) Driving on dry asphalt '
+      - B) Driving at low speeds
+      - C) Driving on wet roads at high speeds
+      answers: C) Driving on wet roads at high speeds
+      correctAnswerIndex: 2

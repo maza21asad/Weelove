@@ -1,0 +1,27 @@
+#import <AVFoundation/AVFoundation.h>
+
+AVSpeechSynthesizer *synthesizer = nil;
+
+extern "C" {
+    void _IOSSpeak(const char* text, const char* languageCode) {
+        if (synthesizer == nil)
+            synthesizer = [[AVSpeechSynthesizer alloc] init];
+
+        [synthesizer stopSpeakingAtBoundary:AVSpeechBoundaryImmediate];
+
+        NSString *nsText = [NSString stringWithUTF8String:text];
+        NSString *nsLang = [NSString stringWithUTF8String:languageCode];
+
+        AVSpeechUtterance *utterance = [[AVSpeechUtterance alloc] initWithString:nsText];
+        utterance.voice = [AVSpeechSynthesisVoice voiceWithLanguage:nsLang];
+        utterance.rate = 0.5f;
+        utterance.volume = 1.0f;
+
+        [synthesizer speakUtterance:utterance];
+    }
+
+    void _IOSStop() {
+        if (synthesizer != nil)
+            [synthesizer stopSpeakingAtBoundary:AVSpeechBoundaryImmediate];
+    }
+}
